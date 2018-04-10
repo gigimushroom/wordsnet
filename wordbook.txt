@@ -1,0 +1,1080 @@
+hassle		/ˈhæsl/		1.很生		2015-08-22		n.困难；争吵；麻烦	v.烦扰；麻烦		
+callee		/kɔːld/		1.很生		2015-08-08		n.被呼叫者；被召唤者		
+elapsed		/ɪ'læpst/		1.很生		2015-08-05		adj.流逝的	动词elapse的过去式和过去分词.		
+narrator		/nəˈreɪtər/		1.很生		2015-08-04		n.叙述者；讲解员		
+designate		/ˈdezɪɡneɪt/		1.很生		2015-07-31		vt.指定；标明；把...定名为；选派	adj.指定的		
+frantically		/ˈfræntɪkli/		1.很生		2015-07-29		adv.狂暴地；疯狂似地		
+unfathomable		/ʌnˈfæðəməbl/		1.很生		2015-07-29		adj.深得无法到达底部的；莫测高深的；难以了解的		
+torment		/ˈtɔːrment/		1.很生		2015-07-29		n.苦痛；拷问；折磨；烦恼	vt.使苦恼；折磨		
+diverted		/dɑɪ'vɜːtɪd/		1.很生		2015-07-28		adj.转移的；分神的	动词divert的过去式和过去分词形式.		
+generality		/ˌdʒenəˈræləti/		1.很生		2015-07-27		n.一般性；概论；大部分		
+granularity		/grænjʊ'lærɪtɪ/		1.很生		2015-07-27		n.颗粒度；粒度；间隔尺寸		
+sector		/ˈsektər/		1.很生		2015-07-27		n.部门；部分；区域	n.[计]扇形；扇区	vt.使分成部分		
+emulator		/ˈemjuleɪtər/		1.很生		2015-07-24		n.仿真器		
+obliterate		/əˈblɪtəreɪt/		1.很生		2015-07-22		v.涂去；擦去；删除；盖销（邮票等）		
+recoup		/rɪˈkuːp/		1.很生		2015-07-22		v.重获；补偿；[律]扣除		
+caveat		/ˈkæviæt/		1.很生		2015-07-22		n.防止误解的说明；警告		
+impede		/ɪmˈpiːd/		1.很生		2015-07-21		vt.妨碍；阻止		
+discernment		/dɪˈsɜːrnmənt/		1.很生		2015-07-17		n.眼光；洞察力		
+batch		/bætʃ/		1.很生		2015-07-14		n.一批；一炉；一次所制之量	v.分批处理		
+dilemma		/dɪˈlemə/		1.很生		2015-07-12		n.困境；进退两难		
+terrain		/təˈreɪn/		1.很生		2015-07-11		n.地带；地形		
+improvisation		/ˌɪmprəvaɪˈzeɪʃn/		1.很生		2015-07-11		n.即兴创作；即席演奏		
+consolidation		/kənˌsɒlə'deɪʃən/		1.很生		2015-07-10		n.巩固；加强；统一；合并；联合		
+reconcile		/ˈrekənsaɪl/		1.很生		2015-07-10		v.调和；和解；妥协；一致		
+discrimination		/dɪˌskrɪmɪˈneɪʃn/		1.很生		2015-07-09		n.歧视；鉴赏力；辨别		
+thresholds		/θ'reʃhəʊldz/		1.很生		2015-07-09		阈值		
+merely		/ˈmɪrli/		1.很生		2015-07-07		adv.仅仅；只不过		
+sentinel		/ˈsentɪnl/		1.很生		2015-07-03		n.哨兵；传送器；[计]标记符号	v.放哨；设岗哨		
+excess		/ɪkˈses/		1.很生		2015-07-03		n.超过；过量；过剩	adj.过量的；额外的		
+quadratic		/kwɑːˈdrætɪk/		1.很生		2015-06-30		adj.二次的	n.二次方程式；二次方程式论		
+rack		/ræk/		1.很生		2015-06-27		n.行李架；（放衣物、碗碟等的）架子；拷问台；折磨；（比赛开始前固定球位置的）三角框	vt.使痛苦；把...放在架子上；累计取得		
+oatmeal		/ˈoʊtmiːl/		1.很生		2015-06-27		n.燕麦片；燕麦粥；浅棕色		
+piggyback		/ˈpɪɡibæk/		1.很生		2015-06-26		adj.在肩(背)上；骑在肩(背)上	adv.在肩(背)上地；骑在肩(背)上地	n.背负式运输	vt.背；附带发生	=pickaback.		
+fad		/fæd/		1.很生		2015-06-26		n.时尚；一时流行的狂热		
+hideous		/ˈhɪdiəs/		1.很生		2015-06-26		adj.丑陋的；可怕的；可憎的；令人惊骇的		
+placebo		/pləˈsiːboʊ/		1.很生		2015-06-26		n.安慰剂；安慰话		
+leery		/ˈlɪri/		1.很生		2015-06-26		adj.机敏的；有戒心的；留神的		
+torso		/ˈtɔːrsoʊ/		1.很生		2015-06-26		n.躯干；残缺的东西；人体的躯干雕塑像		
+urine		/ˈjʊrən/		1.很生		2015-06-26		n.尿；小便		
+swerve		/swɜːrv/		1.很生		2015-06-26		vi.突然转向；转弯；偏离方向	vt.使突然转向；使转弯	n.转向；偏离方向；偏离的程度		
+hammer out		/ˈhæmər aʊt/		1.很生		2015-06-26		推敲； 苦心想出		
+spurious		/ˈspjʊriəs/		1.很生		2015-06-25		adj.假的；伪造的		
+perspective		/pərˈspektɪv/		1.很生		2015-06-25		n.远景；看法；透视	adj.透视的		
+monolithic		/ˌmɒnəˈlɪθɪk/		1.很生		2015-06-24		adj.独石的；单体的；整体的		
+steroid		/ˈsterɔɪd/		1.很生		2015-06-20		n.类固醇		
+decaying		/dɪ'keɪɪŋ/		1.很生		2015-06-20		adj.衰退；腐烂；颓坏	动词decay的现在分词形式.		
+deceptively		/dɪˈseptɪvli/		1.很生		2015-06-20		adv.骗人地；靠不住地；虚伪地		
+traction		/ˈtrækʃn/		1.很生		2015-06-18		n.拽；牵引；牵引力；附着磨擦力		
+exorcism		/ˈeksɔːrsɪzəm/		1.很生		2015-06-14		n.驱鬼；伏魔		
+conjecture		/kənˈdʒektʃər/		1.很生		2015-06-13		n.推测；臆测	v.推测		
+directive		/dəˈrektɪv/		1.很生		2015-06-10		adj.指导的；指挥的；管理的	n.指令		
+annotate		/ˈænəteɪt/		1.很生		2015-06-10		v.注解		
+salience		/'seɪlɪəns/		1.很生		2015-05-26		n.显著；卓越；突出		
+council		/ˈkaʊnsl/		1.很生		2015-05-22		n.地方议会；委员会；理事会；会议；委员		
+purify		/ˈpjʊrɪfaɪ/		1.很生		2015-05-16		v.(使）净化；（使）精炼；涤罪		
+outlay		/ˈaʊtleɪ/		1.很生		2015-05-14		n.花费；开支；费用	v.花费		
+hail		/heɪl/		1.很生		2015-05-06		n.冰雹	vi.下冰雹	vt.招呼；喝彩；宣称；来自	n.欢呼		
+imminently		/ˈɪmɪnəntli/		1.很生		2015-05-02		adv.迫切地；紧急地		
+possession		/pəˈzeʃn/		1.很生		2015-04-14		n.拥有；财产；所有；殖民地		
+skepticism		/'skeptəsɪzəm/		1.很生		2015-04-10		n.怀疑论；怀疑态度；怀疑主义		
+stride		/straɪd/		1.很生		2015-03-27		n.大步走；一大步；步伐；进步	vt.跨；跨骑	vi.迈大步走；跨过；分腿站立		
+slug		/slʌɡ/		1.很生		2015-03-21		n.蛞蝓；鼻涕虫；动作缓慢的人	n.子弹；铅字条；[物]斯勒格（质量单位）	n.重击	v.加铅字条于；用力打		
+obliterated		/ə'blɪtəreɪtɪd/		1.很生		2015-03-20		adj.废除的	动词obliterate的过去式和过去分词形式.		
+verbatim		/vɜːˈbeɪtɪm/		1.很生		2015-03-19		adj.逐字的	adv.逐字地		
+migraine		/ˈmaɪɡreɪn/		1.很生		2015-03-13		n.偏头疼		
+relish		/ˈrelɪʃ/		1.很生		2015-03-09		v.享受；从...获得乐趣；品味；渴望；喜欢；有滋味	n.滋味；爱好；调味品		
+infectious		/ɪnˈfekʃəs/		1.很生		2015-03-09		adj.传染的；有感染力的		
+prioritize		/praɪˈɔːrətaɪz/		1.很生		2015-03-07		vt.把 ... 区分优先次序		
+compliant		/kəmˈplaɪənt/		1.很生		2015-03-01		adj.适用的；顺从的		
+alias		/ˈeɪliəs/		1.很生		2015-02-25		n.别名；化名	adv.又被称为；另外地		
+resistant		/rɪˈzɪstənt/		1.很生		2015-02-25		adj.抵抗的；反抗的		
+make sb's acquaintance		1.很生		2015-02-23		结交某人		
+mitigate		/ˈmɪtɪɡeɪt/		1.很生		2015-02-22		vt.减轻；缓和		
+reluctance		/rɪˈlʌktəns/		1.很生		2015-02-22		n.不愿；勉强；[电]磁阻		
+adversary		/ˈædvərseri/		1.很生		2015-02-22		n.敌手；对手		
+masquerading		/mɑːskə'reɪdɪŋ/		1.很生		2015-02-22		n.伪装；冒名顶替	动词masquerade的现在分词形式.		
+configurable		/kən'fɪgərəbl/		1.很生		2015-02-19		adj.[计]能被配置的；可配置的；结构的		
+deficit		/ˈdefɪsɪt/		1.很生		2015-02-18		n.赤字；逆差；亏损；亏空；不足		
+procrastinate		/proʊˈkræstɪneɪt/		1.很生		2015-02-18		v.延迟；拖延；耽搁		
+refrain		/rɪˈfreɪn/		1.很生		2015-02-17		v.抑制；避免；克制	n.副歌；叠句；重复		
+drawn out		1.很生		2015-02-17		(被)拉长		
+drawn		/drɔːn/		1.很生		2015-02-17		adj.憔悴的	动词draw的过去分词形式.		
+contemplate		/ˈkɑːntəmpleɪt/		1.很生		2015-02-17		vt.注视；沉思；打算		
+lad		/læd/		1.很生		2015-02-17		n.少年；小伙子；<口>伙伴		
+sloppy		/ˈslɑːpi/		1.很生		2015-02-14		adj.肥大的；潦草的；草率的；稀薄的；庸俗感伤的		
+retribution		/ˌretrɪˈbjuːʃn/		1.很生		2015-02-06		n.报应；惩罚；报复；报偿		
+silo		/ˈsaɪloʊ/		1.很生		2015-02-05		n.筒仓；青贮窖		
+seemingly		/ˈsiːmɪŋli/		1.很生		2015-02-05		adv.表面上；似乎；看起来		
+repress		/rɪˈpres/		1.很生		2015-02-05		v.抑制；压抑；镇压		
+trauma		/ˈtraʊmə/		1.很生		2015-02-05		n.创伤；外伤		
+drone		/droʊn/		1.很生		2015-02-05		n.雄蜂；游手好闲者；无人驾驶飞机	n.嗡嗡声；单调的声音	vi.嗡嗡叫；混日子	vt.单调低沉地说		
+pose		/poʊz/		1.很生		2015-02-05		v.摆姿势；把...摆正位置；造成；提出；假装	n.姿态；姿势；装腔作势		
+catastrophic		/ˌkætəˈstrɒfɪk/		1.很生		2015-02-04		adj.灾难的；灾难性的		
+obligated		/ˈɑːblɪɡeɪtɪd/		1.很生		2015-02-03		adj.有义务的，有责任的	v.动词obligate的过去式、过去分词		
+vanity		/ˈvænəti/		1.很生		2015-02-01		n.自负；虚荣心；无价值的东西；浮华		
+bold		/boʊld/		1.很生		2015-02-01		adj.大胆的；陡峭的；醒目的；粗体的；无礼的		
+election		/ɪˈlekʃn/		1.很生		2015-01-28		n.选举；当选；选举权		
+minority		/maɪˈnɔːrəti/		1.很生		2015-01-28		n.少数；少数民族；未成年		
+perseverance		/ˌpɜːrsəˈvɪrəns/		1.很生		2015-01-27		n.不屈不挠；毅力；坚韧不拔		
+caprice		/kəˈpriːs/		1.很生		2015-01-27		n.反复无常；任性；异想天开		
+feign		/feɪn/		1.很生		2015-01-27		vt.假装；捏造	vi.假装；装作		
+abbreviation		/əˌbriːviˈeɪʃn/		1.很生		2015-01-27		n.缩写		
+compelling		/kəmˈpelɪŋ/		1.很生		2015-01-27		adj.引人注目的；紧迫的；令人信服的		
+bolster		/ˈboʊlstər/		1.很生		2015-01-27		n.长枕；靠垫	vt.支持；鼓励		
+tinker		/ˈtɪŋkər/		1.很生		2015-01-27		n.修补匠；焊锅	vi.做焊锅匠；笨拙地修补	vt.修补；调整；改进		
+hone		/hoʊn/		1.很生		2015-01-27		n.细磨刀石；磨孔机	vt.磨刀；磨练		
+encompass		/ɪnˈkʌmpəs/		1.很生		2015-01-27		vt.围绕；包围；包括；完成		
+modeling		/'mɒdəlɪŋ/		1.很生		2015-01-27		n.造型；模特职业	动词model的现在分词.		
+offload		/ˌɔːfˈloʊd/		1.很生		2015-01-27		v.卸下；卸货；发泄		
+external		/ɪkˈstɜːrnl/		1.很生		2015-01-27		adj.外来的；外部的；外面的；表面的	n.外观；外部；外界事物		
+premise		/ˈpremɪs/		1.很生		2015-01-27		n.前提	vt.预述；提论；假设		
+literacy		/ˈlɪtərəsi/		1.很生		2015-01-27		n.识字；读写能力；文化，教养		
+gauge		/ɡeɪdʒ/		1.很生		2015-01-27		n.测量仪器；测量标准；（铁道的）轨距；（钢丝等的）直径；（枪管的）口径	v.估计；判断；测量		
+pigment		/ˈpɪɡmənt/		1.很生		2015-01-26		n. 色素； 颜料	v. 把 ... 加颜色； 变色		
+deliberative		/dɪ'lɪbəˌreɪtɪv/		1.很生		2015-01-26		adj.慎重的；审议的；考察的		
+stillness		/ˈstɪlnəs/		1.很生		2015-01-24		n.静止；沉静		
+relay		/ˈriːleɪ/		1.很生		2015-01-24		vt.转播；转达；中继；接力；接替	n.继电器；接力赛；替班		
+probabilistic		/ˌprɑːbəbɪˈlɪstɪk/		1.很生		2015-01-24		adj.盖然论的；概率的；可能性的		
+latency		/ˈleɪtənsi/		1.很生		2015-01-24		n.潜伏；潜伏期；延迟		
+propagate		/ˈprɑːpəɡeɪt/		1.很生		2015-01-23		v.繁殖；增殖；传播；传送		
+trib		/t'rɪb/		1.很生		2015-01-23		n.信息单位传递速率；信息立传输率；信息位传输速度		
+minimalist		/ˈmɪnɪməlɪst/		1.很生		2015-01-23		n.最低限要求者		
+lethal		/ˈliːθl/		1.很生		2015-01-21		adj.致命的；危险的；有效的		
+canvas		/ˈkænvəs/		1.很生		2015-01-21		n.油画；帆布；（帆布）画布		
+nauseating		1.很生		2015-01-19		adj.使人恶心的	动词nauseate的现在分词.		
+alibi		/ˈæləbaɪ/		1.很生		2015-01-19		n.不在场证明或辩解；托辞	v.辩解；找托辞开脱		
+allegiance		/əˈliːdʒəns/		1.很生		2015-01-19		n.忠诚；效忠		
+grasping		/ˈɡræspɪŋ/		1.很生		2015-01-19		adj.贪心的；贪婪的	动词grasp的现在分词形式.		
+decoy		/ˈdiːkɔɪ/		1.很生		2015-01-18		n.（诱捕鸟兽的）动物；诱饵	v.引诱		
+widget		/ˈwɪdʒɪt/		1.很生		2015-01-16		n.(某公司的)典型小产品；小部件		
+endorse		/ɪnˈdɔːrs/		1.很生		2015-01-16		vt.赞同；支持；背书于		
+weary		/ˈwɪri/		1.很生		2015-01-16		adj.疲倦的；厌烦的	v.疲倦；厌烦；生厌		
+occasion		/əˈkeɪʒn/		1.很生		2015-01-16		n.场合；时机；理由；机会；盛大场面	vt.引起；致使		
+paternity		/pəˈtɜːrnəti/		1.很生		2015-01-16		n.父权；父子关系		
+companion		/kəmˈpæniən/		1.很生		2015-01-15		n.同伴；志趣相投的人；成对物品之一；参考书	v.陪伴		
+conjunction		/kənˈdʒʌŋkʃn/		1.很生		2015-01-14		n.结合；关联；连词；(事件等的)同时发生		
+skyscraper		/ˈskaɪskreɪpər/		1.很生		2015-01-13		n.摩天大楼		
+resignation		/ˌrezɪɡˈneɪʃn/		1.很生		2015-01-13		n.辞职；辞呈；顺从		
+wrenching		/renfʃɪŋ/		1.很生		2015-01-12		adj.折磨的	n.修截苗根；苗木铲根	动词wrench的现在分词形式.		
+gut		/ɡʌt/		1.很生		2015-01-12		n.内脏；肠子；羊肠线；胆量；勇气	vt.取出内脏；摧毁（内部）	adj.本能的；（问题等）根本的		
+equator		/ɪˈkweɪtər/		1.很生		2015-01-10		n.赤道		
+tropical		/ˈtrɑːpɪkl/		1.很生		2015-01-10		adj.热带的；炎热的；热带植物的		
+colocate		/koʊ'loʊkeɪt/		1.很生		2015-01-10		vt. 使 ... 驻扎在同一地点		
+coasters		1.很生		2015-01-10		n.杯垫；航海者（coaster复数）		
+shackle		/ˈʃækl/		1.很生		2015-01-09		n.手铐；脚镣；镣铐；束缚物	v.给...戴上镣铐；束缚		
+provisioning		/prə'vɪʒənɪŋ/		1.很生		2015-01-09		n.准备金提取	动词provision的现在分词形式.		
+immense		/ɪˈmens/		1.很生		2015-01-09		adj.巨大的；广大的；<口>非常好的		
+stint		/stɪnt/		1.很生		2015-01-09		v.节省；限制；<古>停止	n.节约；限制；定额的工作；滨鹬		
+hypervisor		/'haɪpəvaɪzə/		1.很生		2015-01-09		n.管理程序		
+resurrect		/ˌrezəˈrekt/		1.很生		2015-01-09		v.使复活；复兴；挖出		
+pawn		/pɔːn/		1.很生		2015-01-08		n. 典当； 抵押物； 人质； (国际象棋中)卒	vt. 典当； 以 ... 为担保		
+punch line		/pʌntʃ laɪn/		1.很生		2015-01-08		点睛之笔		
+drought		/draʊt/		1.很生		2015-01-08		n.干旱		
+antibiotics		/ˌæntɪbaɪ'ɒtɪks/		1.很生		2015-01-08		n.抗生素		
+rhetorical		/rɪˈtɔːrɪkl/		1.很生		2015-01-07		adj.修辞的；修辞学的；词藻华丽的		
+hubris		/ˈhjuːbrɪs/		1.很生		2015-01-07		n.傲慢；骄傲		
+unethical		/ʌnˈeθɪkl/		1.很生		2015-01-07		adj.不道德的；缺乏职业道德的		
+bonsai		/ˈbɑːnsaɪ/		1.很生		2015-01-07		n.盆栽；盆景艺术		
+dawn		/dɔːn/		1.很生		2015-01-07		n.黎明；曙光；开端；破晓	vi.开始出现；破晓；逐渐明白		
+sinister		/ˈsɪnɪstər/		1.很生		2015-01-07		adj.邪恶的；不祥的；灾难性的；左边的		
+frown		/fraʊn/		1.很生		2015-01-07		n.皱眉；不悦	v.不同意；皱眉头		
+cripple		/ˈkrɪpl/		1.很生		2014-12-12		n.跛者；残废	v.削弱；使...瘫痪		
+curl		/kɜːrl/		1.很生		2014-12-12		n.卷曲；卷发；年轮；漩涡；[足]曲线球	vt.弄卷；使弯曲	vi.变卷；弯曲		
+nourishement		/nʌrɪ'ʃəmənt/		1.很生		2014-12-11		n.营养品		
+ultrasound		/ˈʌltrəsaʊnd/		1.很生		2014-12-11		n.超声(波)		
+prepend		/priː'pend/		1.很生		2014-12-10		vt.预先考虑；预先计划；预谋		
+sane		/seɪn/		1.很生		2014-12-05		adj.心智健全的；明智的		
+fit		/fɪt/		1.很生		2014-12-05		adj.适宜的；合适的；健康的	v.适合；安装	n.发作；适宜		
+cosy		/ˈkoʊzi/		1.很生		2014-12-05		adj.舒适温暖的；亲切友好的；相互勾结的	n.保温套	v.讨好	=cozy（美）.		
+imperative		/ɪmˈperətɪv/		1.很生		2014-12-03		adj.紧要的；必要的；祈使的	n.紧要的事；命令；义务；驱使		
+boil down		/bɔːɪl daʊn/		1.很生		2014-12-03		浓缩； 把 ... 煮稠； 简缩； 节略		
+tense		/tens/		1.很生		2014-12-03		adj.紧张的；绷紧的；拉紧的	v.拉紧；使紧绷	n.(动词)时态		
+tush		/tʌʃ/		1.很生		2014-12-02		int.表示申斥；责备	n.犬齿；<俚>屁股		
+pledge		/pledʒ/		1.很生		2014-12-02		vt.发誓；保证；以 ... 抵押；向 ... 祝酒	n.保证；抵押；誓言；抵押品		
+adrenaline		/ə'drenəlɪn/		1.很生		2014-12-01		n.肾上腺素(使激动兴奋等)	=adrenalin.		
+mainline		/ˈmeɪnlaɪn/		1.很生		2014-12-01		主线；主静脉		
+pitch		/pɪtʃ/		1.很生		2014-12-01		n.球场；程度；音调；推销；投掷；街头商贩摊位；沥青；树脂；松脂	v.投；颠簸；搭帐篷；定调；推销；用沥青覆盖		
+toast		/toʊst/		1.很生		2014-11-30		n.吐司；烤面包	n.祝酒；祝酒词；被祝酒的人	v.烤；烘	v.(为 ... )祝酒		
+proprietor		/prəˈpraɪətər/		1.很生		2014-11-24		n.所有人；业主；老板		
+collate		/kəˈleɪt/		1.很生		2014-11-22		v.对照；校对；校勘；整理		
+apostrophe		/əˈpɑːstrəfi/		1.很生		2014-11-21		n.撇号；单引号		
+holistic		/hoʊˈlɪstɪk/		1.很生		2014-11-14		adj.整体的；全盘的		
+recklessly		/ˈrekləsli/		1.很生		2014-11-14		adv.不顾后果地；卤莽地		
+uproar		/ˈʌprɔːr/		1.很生		2014-11-14		n.骚动；喧嚣		
+feat		/fiːt/		1.很生		2014-11-14		n.技艺；功绩；技艺表演		
+conservative		/kənˈsɜːrvətɪv/		1.很生		2014-11-14		adj.保守的；守旧的	n.保守派(党)；保守的人		
+exponentially		/ˌekspəˈnenʃəli/		1.很生		2014-11-14		adv.成倍地；幂地；指数地		
+laborious		/ləˈbɔːriəs/		1.很生		2014-11-14		adj.艰苦的；费劲的		
+exhilarating		/ɪɡˈzɪləreɪtɪŋ/		1.很生		2014-11-14		adj.令人振奋的；令人兴奋的；令人高兴的		
+notion		/ˈnoʊʃn/		1.很生		2014-11-14		n.观念；概念；想法；主张		
+magnitude		/ˈmæɡnɪtuːd/		1.很生		2014-11-14		n.大小；重要；光度；（地震）级数；（星星）等级		
+vet		/vet/		1.很生		2014-11-14		n.兽医；老兵	vt.诊疗；审查	vi.作兽医		
+disproportionate		/ˌdɪsprəˈpɔːrʃənət/		1.很生		2014-11-14		adj.不成比例的；不相称的；不均衡的		
+exempt		/ɪɡˈzempt/		1.很生		2014-11-14		adj.免除的	vt.免除	n.免税者；被免除义务者		
+dillydally		/'dɪlɪˌdælɪ/		1.很生		2014-11-14		vi.磨蹭		
+endorsements		/enˈdɔ:smənts/		1.很生		2014-11-14		n.背书（endorsement的复数）；推荐，批单		
+leeway		/ˈliːweɪ/		1.很生		2014-11-14		n.余地		
+lucrative		/ˈluːkrətɪv/		1.很生		2014-11-13		adj.合算的；获利的		
+lieu		/luː/		1.很生		2014-11-11		n.代替		
+glute		/gluːt/		1.很生		2014-11-08		n.<口>(常作glutes)臀部肌肉		
+faze		/feɪz/		1.很生		2014-11-06		v.使担忧；使慌乱；使为难或紧张		
+obsessed		/əb'sest/		1.很生		2014-11-06		adj.着迷的		
+spectacularly		1.很生		2014-11-06		adv.壮观地；令人吃惊地；引人注目地		
+slump		/slʌmp/		1.很生		2014-11-06		v.大幅度下跌；猛然瘫坐；使倒下	n.暴跌；低潮状态；(土地)下沉		
+carbohydrates		/kɑːbə'haɪdreɪts/		1.很生		2014-11-06		碳水化合物		
+susceptible		/səˈseptəbl/		1.很生		2014-11-06		adj.易受外界影响的；易受感染的；容许…的		
+linger		/ˈlɪŋɡər/		1.很生		2014-11-05		vi.徘徊；逗留；消磨；漫步		
+omission		/əˈmɪʃn/		1.很生		2014-11-01		n.遗漏；疏忽；删除；省略		
+genre		/ˈʒɑːnrə/		1.很生		2014-10-31		n.类型；流派		
+sabbatical		/səˈbætɪkl/		1.很生		2014-10-31		adj.安息日的；休息的	n.休假；公休		
+fall through		/fɔːl θrʊ/		1.很生		2014-10-25		落空； 失败		
+break through		/breɪk θrʊ/		1.很生		2014-10-24		突破； 突围		
+hipsters		/ˈhɪpstərz/		1.很生		2014-10-22		n.只到臀部的紧身裤	n.赶时髦的人	名词hipster的复数形式.		
+voraciously		/vəˈreɪʃəsli/		1.很生		2014-10-22		adv.贪吃地；贪婪地		
+gist		/dʒɪst/		1.很生		2014-10-17		n.要点；主旨		
+flimsy		/ˈflɪmzi/		1.很生		2014-10-03		adj.轻而薄得；易坏的；不足信的	n.复写纸；薄纸副本		
+drenched		/drentʃd/		1.很生		2014-10-01		adj.湿透的	动词drench的过去式和过去分词形式.		
+enlighten		/ɪnˈlaɪtn/		1.很生		2014-09-26		v.启发；开导；教导		
+intended		/ɪnˈtendɪd/		1.很生		2014-09-19		adj.预期的；故意的	n.未婚妻		
+pun		/pʌn/		1.很生		2014-09-19		n.双关语	vt.说双关语		
+nitpick		/'nɪtpɪk/		1.很生		2014-09-19		v.挑剔；吹毛求疵		
+colliding		/kə'laɪdɪŋ/		1.很生		2014-09-19		n.碰撞	动词collide的现在分词形式.		
+quirk		/kwɜːrk/		1.很生		2014-09-19		n.怪癖；急转		
+cyclical		/ˈsaɪklɪkl/		1.很生		2014-09-19		adj.循环的；周期的		
+successive		/səkˈsesɪv/		1.很生		2014-09-19		adj.连续的；接连的；接二连三的		
+offhand		/ˌɔːfˈhænd/		1.很生		2014-09-18		adj.即时的；未经准备的；唐突无礼的	adv.即时地；未经思索地；随便地		
+splat		/splæt/		1.很生		2014-09-16		n.椅背中间纵立的长条木板；啪嗒声		
+phase out		/feɪz aʊt/		1.很生		2014-09-12		逐渐停止； 逐步淘汰		
+cruft		/k'rʌft/		1.很生		2014-09-12		n.令人讨厌的东西; 不整齐的部分		
+emoticon		/ɪˈmoʊtɪkɑːn/		1.很生		2014-09-12		n.[计]表情符号		
+bane		/beɪn/		1.很生		2014-09-11		n.祸害；祸根		
+hiccup		/ˈhɪkʌp/		1.很生		2014-09-05		n.打嗝；暂时性的小问题	vi.打嗝	=hiccough.		
+comply		/kəmˈplaɪ/		1.很生		2014-09-03		vi.顺从；遵照；答应		
+compromise		/ˈkɑːmprəmaɪz/		1.很生		2014-09-03		n.妥协；折衷；折衷案；和解	vt.妥协处理；危害	vi.妥协，和解；让步		
+accomplish		/əˈkɑːmplɪʃ/		1.很生		2014-08-30		vt.完成；实现		
+tent		/tent/		1.很生		2014-08-30		n.帐篷	v.住帐篷；宿营		
+overhaul		/ˈoʊvərhɔːl/		1.很生		2014-08-29		vt.翻修；仔细检查；革新；赶上	n.彻底检查；全面检修		
+comb		/koʊm/		1.很生		2014-08-25		n.梳子；鸡冠；蜂房	v.梳理；彻底搜寻		
+nit		/nɪt/		1.很生		2014-08-25		n.虱子；没用的人		
+nomination		/ˌnɑːmɪˈneɪʃn/		1.很生		2014-08-24		n.提名；任命；提名权		
+grubby		/ˈɡrʌbi/		1.很生		2014-08-23		adj.生蛆的；肮脏的；污秽的；卑鄙的		
+mudslide		/ˈmʌdslaɪd/		1.很生		2014-08-23		n.泥流		
+smelly		/ˈsmeli/		1.很生		2014-08-23		adj.难闻的；臭的		
+stew		/stuː/		1.很生		2014-08-23		n.炖汤；焖；烦恼	v.炖汤；焖；忧虑		
+omen		/ˈoʊmən/		1.很生		2014-08-19		n.征兆；预兆	vt.预示		
+literal		/ˈlɪtərəl/		1.很生		2014-08-19		adj.逐字的；字面上的；文字的	n.错误字体		
+TAD		/tæd/		1.很生		2014-08-19		n.孩子	n.少量	tad.	abbr.目标地域编号(=Target Area Designator)	abbr.技术验收日期(=Technical Area Document)		
+soak		/soʊk/		1.很生		2014-08-17		vt.使浸透；吸入；浸洗；<俚>使喝醉；敲竹杠	vi.浸泡；渗透；渗入；<俚>酗酒	n.浸；湿透；<俚>酒鬼		
+mishmash		/ˈmɪʃmæʃ/		1.很生		2014-08-14		n.混杂物；杂乱的一堆		
+indentation		/ˌɪndenˈteɪʃn/		1.很生		2014-08-14		n.刻痕；印压；缩进；（海岸线等）凹进处		
+punk		/pʌŋk/		1.很生		2014-08-13		n.<口>阿飞；鬅客	adj.颓废派的；低劣的		
+sling		/slɪŋ/		1.很生		2014-08-13		v.投掷；抛；吊起；悬挂；驱逐；遣送	n.投石器；投掷；吊索；悬带；斯林酒		
+felony		/ˈfeləni/		1.很生		2014-08-13		n.重罪		
+moot		/muːt/		1.很生		2014-08-13		n.大会；讨论会；辩论会	adj.未决议的；抽象论的	v.使成为无实用性的东西		
+jeopardize		/ˈdʒepərdaɪz/		1.很生		2014-08-13		vt.危及；使处于危险境地；影响		
+prevalent		/ˈprevələnt/		1.很生		2014-08-13		adj.流行的；普遍的		
+persecute		/ˈpɜːrsɪkjuːt/		1.很生		2014-08-12		vt.迫害；烦扰；为难		
+outright		/ˈaʊtraɪt/		1.很生		2014-08-12		adj.直率的；完全的；彻底的	adv.率直地；立刻地；彻底地		
+subtle		/ˈsʌtl/		1.很生		2014-08-12		adj.微妙的；敏锐的；不明显的；精细的；狡猾的		
+cruel		/ˈkruːəl/		1.很生		2014-08-12		adj.残酷的；残忍的；引起痛苦的		
+savage		/ˈsævɪdʒ/		1.很生		2014-08-12		adj.野性的；凶猛的；粗鲁的；荒野的；原始的	n.野蛮人；粗人；凶恶的人	vt.激烈抨击；猛烈攻击		
+presumably		/prɪˈzuːməbli/		1.很生		2014-08-12		adv.大概；据推测；可能		
+conformist		/kən'fɔːmɪst/		1.很生		2014-08-12		n.遵奉者	adj.因循守旧的		
+excel		/ɪkˈsel/		1.很生		2014-08-12		vt.优于；超过	vi.胜出	n.[计] 电子表格（软件名称）		
+despise		/dɪˈspaɪz/		1.很生		2014-08-12		vt.轻视		
+conceit		/kənˈsiːt/		1.很生		2014-08-11		n.自负；个人观点；幻想；字字珠玑；好评		
+fatigue		/fəˈtiːɡ/		1.很生		2014-08-10		n.疲劳；疲乏；劳务杂役	v.（使）疲劳	adj.疲劳的		
+nigh		/naɪ/		1.很生		2014-08-10		adj.近的；直接的；左侧的	adv.在附近地；即将发生	prep.近于	v.接近		
+glory		/ˈɡlɔːri/		1.很生		2014-08-10		n.光荣；荣誉；赞颂；壮丽	vi.自豪		
+prairie		/ˈpreri/		1.很生		2014-08-10		n.大草原		
+breeze		/briːz/		1.很生		2014-08-10		n.微风；<口>轻而易举的事；焦炭渣	v.飘然而行；轻松通过		
+conductor		/kənˈdʌktər/		1.很生		2014-08-10		n.售票员；导体；指挥		
+geometry		/dʒiˈɑːmətri/		1.很生		2014-08-10		n.几何；几何学		
+swine		/swaɪn/		1.很生		2014-08-10		n.猪；令人不快的人或事		
+cleanse		/klenz/		1.很生		2014-08-10		v.使 ... 清洁；净化；使 ... 纯洁		
+lame		/leɪm/		1.很生		2014-08-08		adj.无说服力的；跛足的	vt.使 ... 成残废	n.金属薄板		
+sour		/ˈsaʊər/		1.很生		2014-08-07		adj.酸的；酸腐的；刻薄的	v.变酸		
+fart		/fɑːrt/		1.很生		2014-08-07		vi.放屁；闲荡	n.屁；过时的人		
+morgue		/mɔːrɡ/		1.很生		2014-08-07		n.陈尸所；资料室		
+resent		/rɪˈzent/		1.很生		2014-08-07		vt.恨；生气		
+delusion		/dɪˈluːʒn/		1.很生		2014-08-07		n.错觉；幻觉；妄想；欺骗		
+cling		/klɪŋ/		1.很生		2014-08-07		vi.紧贴；附着；依恋；坚持	n.紧抓；紧贴		
+throatiness		/θrəʊ'tiːnəs/		1.很生		2014-08-07		n.喉音；沙哑		
+exploit		/ɪkˈsplɔɪt/		1.很生		2014-08-05		vt.剥削；利用；开发；开拓	n.功绩；英勇行为		
+condone		/kən'doʊn/		1.很生		2014-08-05		vt.宽恕		
+pyrotechnic		/ˌpaɪrəˈteknɪk/		1.很生		2014-08-05		adj.烟火制造术的；辉煌灿烂的	=pyrotechnical.		
+scale		/skeɪl/		1.很生		2014-08-05		n.刻度；等级，规模；音阶；量程；天枰，磅秤；鳞片，鳞状物	v.攀登；按比例决定；称重；刮鳞；剥落		
+consecutive		/kənˈsekjətɪv/		1.很生		2014-08-05		adj.连续的；连贯的		
+interoperate		/ˌɪntə'ɒpəreɪt/		1.很生		2014-08-05		n.互操作		
+interconnect		/ˌɪntərkəˈnekt/		1.很生		2014-08-05		v.使互相连接；连接		
+constituent		/kənˈstʃuənt/		1.很生		2014-08-05		n.成分；选民；构成物	adj.构成的；组织的；立宪的		
+roughly		/ˈrʌfli/		1.很生		2014-08-05		adv.粗略地；大约；粗暴地；粗糙地；粗鲁地		
+contiguously		/kən'tɪgjuːəslɪ/		1.很生		2014-08-05		adv.接触地；连续地		
+widow		/ˈwɪdoʊ/		1.很生		2014-08-05		n.寡妇；遗孀	vt.使丧偶		
+widowed		1.很生		2014-08-05		adj.寡居的；鳏居的	动词widow的过去式和过去分词.		
+put up with		/pʊt ʌp wɪð/		1.很生		2014-08-05		忍受； 容忍		
+put up		/pʊt ʌp/		1.很生		2014-08-05		vt.放；贮备；推荐；提供，提出；建造；举起；提高；张贴，公布；配置，准备	vi.提供食宿；直接行动		
+flirt		/flɜːrt/		1.很生		2014-08-05		n.调情的人；卖弄风骚的人	vi.调情；玩弄；掠过；轻率对待	vt.忽然弹出；摇动		
+vomit		/ˈvɑːmɪt/		1.很生		2014-08-05		v.吐出；呕吐；喷出	n.呕吐；呕吐物		
+dent		/dent/		1.很生		2014-08-05		n.凹痕；心理阴影；挫伤	vt.弄凹	vi.形成凹陷		
+clarify		/ˈklærəfaɪ/		1.很生		2014-07-30		vt.澄清；阐明；净化		
+scalar		/ˈskeɪlər/		1.很生		2014-07-29		adj.标量的，数量的；梯状的，分等级的	n.【数】标量，数量		
+sanitize		/ˈsænɪtaɪz/		1.很生		2014-07-29		vt.采取卫生措施使其安全；消毒；使无害		
+rewind		/ˌriːˈwaɪnd/		1.很生		2014-07-29		v.倒带；转回；重绕	n.倒带装置；重绕		
+mantissa		/mæn'tɪsə/		1.很生		2014-07-29		n.尾数		
+evolve		/iˈvɑːlv/		1.很生		2014-07-29		v.(使)逐步形成；(使)逐步演变；进化		
+CODEC		1.很生		2014-07-26		abbr.信号编解码器(=decoder coder)		
+ingest		/ɪnˈdʒest/		1.很生		2014-07-25		v.咽下；摄取		
+saturated		/ˈsætʃəreɪtɪd/		1.很生		2014-07-25		adj.饱和的；渗透的；深颜色的		
+copious		/ˈkoʊpiəs/		1.很生		2014-07-25		adj.丰富的；大量的；(指作家)多产的		
+hiatus		/haɪˈeɪtəs/		1.很生		2014-07-24		n.裂缝；分裂；间断；停顿		
+wager		/ˈweɪdʒər/		1.很生		2014-07-24		n.赌注；打赌	v.打赌；押注		
+misconception		/ˌmɪskənˈsepʃn/		1.很生		2014-07-24		n.误解；错误想法		
+Sanskrit		/ˈsænskrɪt/		1.很生		2014-07-24		n.梵文	adj.梵文的		
+deduction		/dɪˈdʌkʃn/		1.很生		2014-07-24		n.扣除；扣除额；推论；推理；演绎		
+jigsaw		/ˈdʒɪɡsɔː/		1.很生		2014-07-24		n.拼图游戏；缕花锯；竖锯	vt.用竖锯锯；使互相交错搭接		
+compass		/ˈkʌmpəs/		1.很生		2014-07-24		n.圆规；指南针；范围	vt.达到；围绕；图谋		
+slip		/slɪp/		1.很生		2014-07-23		v.滑倒；滑脱；疏忽；溜走	n.疏忽；滑倒；溜走；失误		
+breast stroke		/brest stroʊk/		1.很生		2014-07-23		蛙泳		
+蛙泳		1.很生		2014-07-23		(swimming) breaststroke	breast stroke		
+hedge		/hedʒ/		1.很生		2014-07-23		n.树篱；篱笆；障碍；防护物；套期保值；推诿	v.用树篱围；避免直接回答；两面下注		
+havoc		/ˈhævək/		1.很生		2014-07-22		n.大破坏；混乱	vt.破坏		
+vengeance		/ˈvendʒəns/		1.很生		2014-07-22		n.报复；报仇		
+wreak		/riːk/		1.很生		2014-07-22		vt.发泄；施行（报复）；造成（破坏等），带来（灾难性的后果）		
+ligament		/ˈlɪɡəmənt/		1.很生		2014-07-22		n.韧带；结带；纽带		
+stimulus		/ˈstɪmjuləs/		1.很生		2014-07-22		n.刺激；刺激品；激励		
+irritate		/ˈɪrɪteɪt/		1.很生		2014-07-22		v.激怒；使疼痛或发炎		
+moxibustion		/ˌmɒksɪ'bʌstʃən/		1.很生		2014-07-19		n.艾炙；艾灼		
+diagnostic		/ˌdaɪəɡˈnɑːstɪk/		1.很生		2014-07-19		adj.诊断的；特征的		
+flapping		/flæpɪŋ/		1.很生		2014-07-19		n.摇摆运动；拍打	动词flap的现在分词形式.		
+stabbing		/ˈstæbɪŋ/		1.很生		2014-07-18		adj.刺伤的；刺痛的	动词stab的现在分词.		
+acupuncture		/ˈækjupʌŋktʃər/		1.很生		2014-07-18		n.针灸；针治		
+degrade		/dɪˈɡreɪd/		1.很生		2014-07-16		v.降格；使屈辱；贬低；退化；降解		
+squelch		/skweltʃ/		1.很生		2014-07-16		v.发出嘎吱声；压扁；镇压	n.嘎吱声；压扁；静噪电路		
+malformed		/ˌmælˈfɔːrmd/		1.很生		2014-07-16		adj.难看的；畸形的		
+infrastructure		/ˈɪnfrəstrʌktʃər/		1.很生		2014-07-15		n.基础；基础设施		
+precautionary		/prɪˈkɔːʃənəri/		1.很生		2014-07-13		adj.预先警戒的；预防的；留心的		
+jerk		/dʒɜːrk/		1.很生		2014-07-13		v.急动；猛拉	n.猛拉；急动；笨蛋；<俚> 蠢人	adj.颠簸不稳的		
+menstruate		/ˈmenstrueɪt/		1.很生		2014-07-13		vi.行经；月经来潮		
+DOA		/ˌdiːoʊˈeɪ/		1.很生		2014-07-13		abbr.到达前死亡；送到时已死的(=dead on arrival)		
+emasculate		/iˈmæskjuleɪt/		1.很生		2014-07-13		v.阉割；使柔弱；削弱	adj.去势的；柔弱的		
+ejaculation		/iˌdʒækjuˈleɪʃn/		1.很生		2014-07-13		n.突然说出；射精		
+shaggy		/ˈʃæɡi/		1.很生		2014-07-13		adj.毛发蓬松的；长浓而粗的；表面粗糙的		
+contagious		/kənˈteɪdʒəs/		1.很生		2014-07-13		adj.传染性的；感染性的		
+stand in		/ˈstændˌɪn/		1.很生		2014-07-13		代替； 代表； 作替身		
+remedy		/ˈremədi/		1.很生		2014-07-13		n.治疗法；药物；补救	vt.治疗；补救；矫正		
+wage		/weɪdʒ/		1.很生		2014-07-13		n.工资；报酬	v.开展；从事；进行(战争、运动)		
+aggregate		/ˈæɡrɪɡət/		1.很生		2014-07-13		adj.合计的；总的	n.总计；进球总数；集料	v.（使）聚集；总计		
+mania		/ˈmeɪniə/		1.很生		2014-07-13		n. 狂热； 癖好； [医]躁狂	suf. ... 狂； 对 ... 有过分的热情		
+plunge		/plʌndʒ/		1.很生		2014-07-13		v.使投入；跳入；栽进；下降，急降，突降	n.投入；跳入		
+torture		/ˈtɔːrtʃər/		1.很生		2014-07-12		n.拷问；痛苦	vt.拷问；使痛苦；曲解		
+ethnicity		/eθˈnɪsəti/		1.很生		2014-07-12		n.种族划分；属于少数民族		
+galore		/ɡəˈlɔːr/		1.很生		2014-07-12		adj.丰富的	adv.丰富的		
+euphemisms		/'juːfəmɪzəmz/		1.很生		2014-07-12		委婉语		
+inebriation		/ɪˌniːbriˈeɪʃn/		1.很生		2014-07-12		n.醉；陶醉		
+pathetically		/pəˈθetɪkli/		1.很生		2014-07-12		adv.悲哀地；哀伤地；感伤地		
+persuation		/pəsj'ʊeɪʃn/		1.很生		2014-07-12		说服		
+sobbing		/'sɒbɪŋ/		1.很生		2014-07-11		adj.湿透的	动词sob的现在分词.		
+console		/kənˈsoʊl/		1.很生		2014-07-11		vt.安慰；慰藉	n.仪表盘；操控台；(游戏)平台；落地式支座		
+selfie		1.很生		2014-07-11		n.自拍照（网络用语）		
+relinquish		/rɪˈlɪŋkwɪʃ/		1.很生		2014-07-11		vt.放弃；放手		
+exclusively		/ɪkˈskluːsɪvli/		1.很生		2014-07-11		adv.专门地；排他地；独占地；仅仅；只		
+overhauling		/oʊvə'hɔːlɪŋ/		1.很生		2014-07-10		n.解体检修；大修；拆修；[航海]放松(绳索)；松开(滑轮)	动词overhaul的现在分词.		
+anatomy		/əˈnætəmi/		1.很生		2014-07-10		n.解剖学；解剖学专著；分解；解剖；骨骸		
+beloved		/bɪˈlʌvd/		1.很生		2014-07-10		adj.心爱的	n.爱人		
+biased		/ˈbaɪəst/		1.很生		2014-07-10		adj.有偏见的		
+optimistic		/ˌɑːptɪˈmɪstɪk/		1.很生		2014-07-10		adj.乐观的；乐观主义的		
+colon		/ˈkoʊlən/		1.很生		2014-07-08		n.冒号；结肠；科朗(哥斯达黎加和萨尔瓦多的货币单位)	Colon.	n.科隆(巴拿马港市)		
+fasting		/'fɑːstɪŋ/		1.很生		2014-07-05		n.禁食	动词fast的现在分词.		
+gaze		/ɡeɪz/		1.很生		2014-07-05		vi.凝视	n.凝视		
+scoping		/s'kəʊpɪŋ/		1.很生		2014-07-05		[计] 辖域		
+duo		/ˈduːoʊ/		1.很生		2014-07-05		n.成对的表演者；二重奏（唱）	pref.表示“二”；“一对”		
+deadpan		/ˈdedpæn/		1.很生		2014-07-05		adj.表情冷淡的的	v.面无表情地表达	n.冷面孔；面无表情的人		
+triage		/triːˈɑːʒ/		1.很生		2014-07-03		n.伤员鉴别分类；优先分配；分类		
+verbosity		/vɜːˈbɒsəti/		1.很生		2014-07-02		n.唠叨；冗长		
+comrade		/ˈkɑːmræd/		1.很生		2014-07-02		n.同志		
+creed		/kriːd/		1.很生		2014-07-02		n.宗教信仰；信念		
+scumbag		/ˈskʌmbæɡ/		1.很生		2014-07-02		n. <俚>卑鄙的家伙		
+forestall		/fɔːrˈstɔːl/		1.很生		2014-07-02		v.领先；占先一步；先发制人，阻止，妨碍		
+friction		/ˈfrɪkʃn/		1.很生		2014-07-02		n.摩擦；摩擦力；分歧		
+gratuitous		/ɡrəˈtuːɪtəs/		1.很生		2014-07-02		adj.无缘无故的；无必要的；免费的		
+strive		/straɪv/		1.很生		2014-07-02		vi.奋斗；努力；力求；斗争		
+impose		/ɪmˈpoʊz/		1.很生		2014-07-02		v.强加；课征；强迫；征收(税款)		
+suffice		/səˈfaɪs/		1.很生		2014-07-02		vi.足够；使满足	vt.使 ... 足够		
+judicious		/dʒuˈdɪʃəs/		1.很生		2014-07-02		adj.明智的；贤明的；审慎的		
+awash		/əˈwɔːʃ/		1.很生		2014-07-02		adj.被淹没的；泛滥的		
+dangle		/ˈdæŋɡl/		1.很生		2014-07-02		v.摇晃；悬垂；挂着；追求	n.摇摆；摇摆物		
+skid		/skɪd/		1.很生		2014-07-02		n.打滑；（飞机的）起落橇；滑动垫木；<俚>下滑	v.打滑		
+grease		/ɡriːs/		1.很生		2014-07-02		n.油脂	vt.用油脂涂；上油；贿赂		
+foreswear		/fɔː'sweə/		1.很生		2014-07-02		v.放弃；发假誓		
+defy		/dɪˈfaɪ/		1.很生		2014-07-02		vt.藐视；挑衅；反抗		
+groove		/ɡruːv/		1.很生		2014-07-02		n.槽；纹；习惯	v.开槽；使 ... 快活		
+dormant		/ˈdɔːrmənt/		1.很生		2014-07-02		adj.休眠的；睡眠的；静止的；潜伏的；匿名的；（动物等）冬眠的		
+rut		/rʌt/		1.很生		2014-07-01		n.车辙；槽；凹痕；发情；陈旧不变的一套；常规	v.形成车辙；处于发情期；耕犁		
+ignorant		/ˈɪɡnərənt/		1.很生		2014-06-30		adj.无知的；愚昧的；不知道的		
+irritating		/ˈɪrɪteɪtɪŋ/		1.很生		2014-06-30		adj.使愤怒的；气人的；令人不愉快的	动词irritate的现在分词.		
+abstruse		/əbˈstruːs/		1.很生		2014-06-30		adj.深奥的		
+volatile		/ˈvɑːlətl/		1.很生		2014-06-30		adj.不稳定的；反复无常的；易挥发的	n.挥发物		
+nonetheless		/ˌnʌnðəˈles/		1.很生		2014-06-30		adv.尽管如此(仍然)		
+conceive		/kənˈsiːv/		1.很生		2014-06-30		v.设想；想出；怀孕		
+preconceived		/ˌpriːkənˈsiːvd/		1.很生		2014-06-30		adj.(思想、观点等)事先形成的	动词preconceive的过去式和过去分词形式.		
+sluggish		/ˈslʌɡɪʃ/		1.很生		2014-06-28		adj.缓慢的；懒惰的；迟钝的；萧条的；无精打采的		
+incentive		/ɪnˈsentɪv/		1.很生		2014-06-27		adj.刺激的；鼓励的	n.刺激；鼓励；动机		
+obliged		/əˈblaɪdʒd/		1.很生		2014-06-27		adj.义不容辞的；感激的	动词oblige的过去式和过去分词形式.		
+astray		/əˈstreɪ/		1.很生		2014-06-27		adv.迷途地	adj.迷途的；误入歧途的		
+presence		/ˈprezns/		1.很生		2014-06-27		n.出席；存在；到场；【生】存在度		
+amalgam		/əˈmælɡəm/		1.很生		2014-06-27		n.汞合金；混合物		
+esoteric		/ˌesəˈterɪk/		1.很生		2014-06-27		adj.秘传的；神秘的；难懂的		
+unambiguous		/ˌʌnæmˈbɪɡjuəs/		1.很生		2014-06-27		adj.不含糊的；清楚的		
+inoculate		/ɪˈnɑːkjuleɪt/		1.很生		2014-06-27		v.给 ... 注射疫苗；灌输		
+apposition		/ˌæpəˈzɪʃn/		1.很生		2014-06-27		n.并置；同格；同位；并列；[生]附着		
+annoyance		/əˈnɔɪəns/		1.很生		2014-06-27		n.烦恼；生气；令人讨厌的人或事情		
+defer		/dɪˈfɜːr/		1.很生		2014-06-27		v.推迟；延期；使延期入伍	v.顺从；把…委托给他人		
+mishap		/ˈmɪshæp/		1.很生		2014-06-27		n.不幸之事；灾祸；恶运		
+protege		/'proʊtəˌʒeɪ/		1.很生		2014-06-27		n.门生；被保护者		
+native		/ˈneɪtɪv/		1.很生		2014-06-27		adj.本国的；本土的；当地的	n.土著；本地人；本国人		
+resiliency		/rɪˈzɪliənsi/		1.很生		2014-06-27		n.跳回(回弹；弹力；弹性变形；冲击值)		
+immune		/ɪˈmjuːn/		1.很生		2014-06-26		adj.免疫的；免除的		
+malicious		/məˈlɪʃəs/		1.很生		2014-06-26		adj.怀恶意的；恶毒的		
+regardless		/rɪˈɡɑːrdləs/		1.很生		2014-06-26		adj.不顾的；不注意的	adv.不顾		
+profanity		/prəˈfænəti/		1.很生		2014-06-26		n.亵渎；不敬的言语		
+loathe		/loʊð/		1.很生		2014-06-25		v.厌恶；憎恶		
+enumerate		/ɪˈnuːməreɪt/		1.很生		2014-06-24		vt.数；列举；枚举		
+introspect		/ˌɪntrə'spekt/		1.很生		2014-06-24		v.内省；反省		
+emit		/iˈmɪt/		1.很生		2014-06-24		vt.发出，发射；放射；吐露		
+sober		/ˈsoʊbər/		1.很生		2014-06-24		adj.清醒的；稳重的；沉着冷静的；颜色暗淡的	vt.使清醒；使沉着	vi.清醒；冷静下来		
+stale		/steɪl/		1.很生		2014-06-24		adj.不新鲜的；陈腐的；厌倦的	v.变得不新鲜；腐坏；(动物)撒尿	n.(动物的)尿		
+ritual		/ˈrɪtʃuəl/		1.很生		2014-06-23		n.仪式；典礼；宗教仪式；固定程序	adj.仪式的；老规矩的；惯常的		
+inoculation		/ɪˌnɒkjuˈleɪʃn/		1.很生		2014-06-23		n.接插芽；接木；接种疫苗		
+literally		/ˈlɪtərəli/		1.很生		2014-06-23		adv.逐字地；按照字面上地；不夸张地；正确地；简直		
+procrastination		/prəʊˌkræstɪˈneɪʃn/		1.很生		2014-06-23		n.拖延；耽搁		
+narcissism		/ˈnɑːrsɪsɪzəm/		1.很生		2014-06-23		n.自我陶醉；自恋		
+penetration		/ˌpenɪˈtreɪʃn/		1.很生		2014-06-20		n.侵入；渗透；突破；洞察力		
+ambiguity		/ˌæmbɪˈɡjuːəti/		1.很生		2014-06-20		n.模棱两可；含糊不清		
+perimeter		/pəˈrɪmɪtər/		1.很生		2014-06-20		n.周长；周界；边缘		
+bolt-on		1.很生		2014-06-20		螺栓紧固		
+wobble		/ˈwɑːbl/		1.很生		2014-06-18		n.摆动；动摇；不稳定	vi.摇晃；游移不定	vt.使摇晃；使动摇		
+arithmetic		/əˈrɪθmətɪk/		1.很生		2014-06-16		n.算术；计算	adj.算术的		
+reside		/rɪˈzaɪd/		1.很生		2014-06-16		vi.居住；属于；存在		
+semi		/ˈsemi/		1.很生		2014-06-16		n.半挂车；半挂车货车；<非>半决赛	pref.表示“一半的；部分的；不完全的”		
+preliminary		/prɪˈlɪmɪneri/		1.很生		2014-06-16		adj.初步的；预备的；开始的	n.初步行动；准备；初步措施		
+orchestrate		/ˈɔːrkɪstreɪt/		1.很生		2014-06-16		vt. 给 ... 配管弦乐曲； 使协调地结合在一起； 精心安排		
+symbolic		/sɪmˈbɒlɪk/		1.很生		2014-06-16		adj.象征的；符号的	n.代号		
+voltage		/ˈvoʊltɪdʒ/		1.很生		2014-06-16		n.电压		
+confine		/kənˈfaɪn/		1.很生		2014-06-16		vt.限制；禁闭	n.范围；界限；约束；限制		
+observant		/əbˈzɜːrvənt/		1.很生		2014-06-15		adj.观察力敏锐的；（对法律、习俗、传统等）谨慎遵守的		
+meticulous		/məˈtɪkjələs/		1.很生		2014-06-15		adj.一丝不苟的；缜密的		
+parcel		/ˈpɑːrsl/		1.很生		2014-06-13		n.包裹；部分；一块(土地)	vt.分配；打包		
+offending		/əˈfendɪŋ/		1.很生		2014-06-13		adj.冒犯的；违法的	动词offend的现在分词形式.		
+trinity		/ˈtrɪnəti/		1.很生		2014-06-12		n.（宗教）三位一体；三个事物或三个人一组；三一节		
+convergence		/kənˈvɜːrdʒəns/		1.很生		2014-06-12		n.收敛；汇聚；汇合点		
+collaboration		/kəˌlæbəˈreɪʃn/		1.很生		2014-06-12		n.合作；通敌		
+envy		/ˈenvi/		1.很生		2014-06-11		v.羡慕；妒忌	n.羡慕；(妒忌的)对象		
+ultimately		/ˈʌltɪmətli/		1.很生		2014-06-11		adv.最后；最终		
+piecemeal		/ˈpiːsmiːl/		1.很生		2014-06-06		adj.零碎的；逐渐的	adv.逐个地；零碎地		
+precede		/prɪˈsiːd/		1.很生		2014-06-06		vt.在 ... 之前；先于	vi.在前面；领先		
+subsume		/səbˈsuːm/		1.很生		2014-06-06		v.归入；纳入；包含；包括		
+prose		/proʊz/		1.很生		2014-06-06		adj.散文的	n.散文		
+literate		/ˈlɪtərət/		1.很生		2014-06-06		n.识字的人；受过教育的人；博学的人	adj.有读写能力的；博学的；优美的；精通文学的		
+undertaking		/ˌʌndərˈteɪkɪŋ/		1.很生		2014-06-06		n.事业；企业；保证；许诺；殡仪业		
+dogma		/ˈdɔːɡmə/		1.很生		2014-06-05		n.教条；教义；信条		
+mint		/mɪnt/		1.很生		2014-06-05		n.薄荷；造币厂；<口>巨额	vt.铸造(硬币)；伪造	adj.完美无缺的		
+drown		/draʊn/		1.很生		2014-06-03		vi.淹死	vt.淹死；淹没		
+drowning		/draʊnɪŋ/		1.很生		2014-06-03		n.溺水	动词drown的现在分词.		
+vulgar		/ˈvʌlɡər/		1.很生		2014-05-31		adj.通俗的；粗俗的；乡土的	n.平民，百姓		
+coalesce		/ˌkoʊəˈles/		1.很生		2014-05-31		v.合并；联合；接合		
+aviation		/ˌeɪviˈeɪʃn/		1.很生		2014-05-30		n.航空；飞机制造业		
+compliance		/kəmˈplaɪəns/		1.很生		2014-05-30		n.顺从；服从；遵守；屈服；柔度；灵活性		
+steelrim		/'stiːlrɪm/		1.很生		2014-05-29		篮圈		
+carriage		/ˈkærɪdʒ/		1.很生		2014-05-28		n.四轮马车；客车车厢；运输；运费；举止；托架		
+panel		/ˈpænl/		1.很生		2014-05-28		n.嵌板；仪表盘；面板；座谈小组；陪审团	v.嵌镶		
+walnut		/ˈwɔːlnʌt/		1.很生		2014-05-28		n.核桃；核桃木；核桃色；茶色		
+envious		/ˈenviəs/		1.很生		2014-05-28		adj.嫉妒的	adj.[古]好胜的；羡慕的		
+hovering		/'hɒvərɪŋ/		1.很生		2014-05-26		n.停悬；悬停；徘徊不定	动词hover的现在分词形式.		
+masculinity		/ˌmæskjuˈlɪnəti/		1.很生		2014-05-25		n.男子气慨		
+freight		/freɪt/		1.很生		2014-05-23		n.（货运）运费；货运；货物	vt.装货于；运送		
+lizard		/ˈlɪzərd/		1.很生		2014-05-22		n.蜥蜴		
+douchebag		1.很生		2014-05-20		n.<美俚>人渣，变态，烂人		
+prank		/præŋk/		1.很生		2014-05-17		n.开玩笑；恶作剧；戏谑	v.盛装；装饰；打扮		
+designated		/'dezɪɡneɪtɪd/		1.很生		2014-05-17		adj.指定的；特指的		
+redeem		/rɪˈdiːm/		1.很生		2014-05-17		vt.赎回；弥补；履行；兑现；偿还；解救		
+jack		/dʒæk/		1.很生		2014-05-16		n.千斤顶；插座；船首旗；男人；公畜	vt.用千斤顶顶起；抬高	n.杰克（男子名）	n.扑克牌里的J	n.水手；侍者		
+inmate		/ˈɪnmeɪt/		1.很生		2014-05-16		n.同住者；犯人；居民		
+cardiovascular		/ˌkɑːrdioʊˈvæskjələr/		1.很生		2014-05-16		adj.心脏血管的		
+analogously		/ə'næləgəslɪ/		1.很生		2014-05-16		adv.类似地；近似地		
+abyss		/əˈbɪs/		1.很生		2014-05-14		n.深渊；无底洞		
+democracy		/dɪˈmɑːkrəsi/		1.很生		2014-05-13		n.民主国家；民主；民主制		
+cordially		/ˈkɔːrdʒəli/		1.很生		2014-05-07		adv.诚恳地；诚挚地；诚实地		
+intact		/ɪnˈtækt/		1.很生		2014-05-02		adj.完好无缺的；原封不动的；未经触碰的		
+regardless of		/rɪˈɡɑːrdlɪs əv/		1.很生		2014-05-02		不管； 不顾		
+grievance		/ˈɡriːvəns/		1.很生		2014-04-29		n.委屈；冤情；苦况		
+diagnose		/ˌdaɪəɡˈnoʊs/		1.很生		2014-04-26		v.判断；诊断(疾病)		
+allegory		/ˈæləɡɔːri/		1.很生		2014-04-23		n.寓言；讽喻；寓意		
+talon		/ˈtælən/		1.很生		2014-04-23		n.爪；手；爪状物；发剩的牌		
+leecher		/'liːtʃər/		1.很生		2014-04-21		吸血鬼,指只知索取不懂分享回报的家伙		
+intrigue		/ɪnˈtriːɡ/		1.很生		2014-04-15		vt.欺骗；激起 ... 的兴趣	vi.密谋	n.阴谋；私通；复杂的事		
+chiropractor		/ˈkaɪəroʊpræktər/		1.很生		2014-04-10		n.脊椎指压治疗者；按摩师		
+vertebra		/ˈvɜːrtɪbrə/		1.很生		2014-04-10		n.脊椎骨；椎骨		
+cervical vertebra		1.很生		2014-04-10		颈椎骨		
+scattered		/ˈskætərd/		1.很生		2014-04-09		adj.分散的；稀疏的		
+graciously		/ˈɡreɪʃəsli/		1.很生		2014-04-08		adv.仁慈地；和蔼庄重地		
+leprosy		/ˈleprəsi/		1.很生		2014-04-04		n.[医]麻风病；腐败		
+corpse		/kɔːrps/		1.很生		2014-04-04		n.尸体		
+oust		/aʊst/		1.很生		2014-04-04		v.逐出；夺取；取代		
+protest		/ˈproʊtest/		1.很生		2014-04-04		n.抗议；反对	v.抗议；反对；申明；断言		
+concussion		/kənˈkʌʃn/		1.很生		2014-04-01		n.脑震荡；震动		
+inattentive		/ˌɪnəˈtentɪv/		1.很生		2014-04-01		adj.心不在焉的；怠慢的；疏忽的		
+absent-minded		/ˌæbsəntˈmaɪndɪd/		1.很生		2014-04-01		adj.心不在焉的		
+trickle		/ˈtrɪkl/		1.很生		2014-03-26		vi.滴流；慢慢移动	n.细流；徐徐地流		
+exponent		/ɪkˈspoʊnənt/		1.很生		2014-03-25		n.【C】拥护者；说明者；楷模；指数		
+precision		/prɪˈsɪʒn/		1.很生		2014-03-25		n.精确；精密度	adj.精确的		
+lymphoma		/lɪmˈfoʊmə/		1.很生		2014-03-25		n.淋巴瘤		
+stricken		/ˈstrɪkən/		1.很生		2014-03-25		adj.受伤或患病的；受灾的；受挫的；被击中的；与容器口齐平的	suf.表示“深受…之苦的”	动词strike的过去分词.		
+negligible		/ˈneɡlɪdʒəbl/		1.很生		2014-03-22		adj.可以忽略的；微不足道的		
+retract		/rɪˈtrækt/		1.很生		2014-03-20		v.缩回；收回；撤销		
+leprechaun		/ˈleprəkɔːn/		1.很生		2014-03-19		n.(传说中的)小妖精		
+extracurricular		/ˌekstrəkə'rɪkjələ/		1.很生		2014-03-19		adj.课外的；业余的		
+blast		/blæst/		1.很生		2014-03-19		n.爆炸；巨响；一阵(强风)；严厉的批评；<美俚>愉快的经历	v.爆破；摧毁；发出巨响；用力撞击；批评		
+devastating		/ˈdevəsteɪtɪŋ/		1.很生		2014-03-19		adj.毁灭性的；破坏性的；惊人的；压倒性的；有魅力的		
+buzz		/bʌz/		1.很生		2014-03-19		vi.发出嗡嗡声；充满；匆忙	vt.使嗡嗡叫；低飞掠过；打电话	n.嗡嗡声；电话		
+drum up		/drʌm ʌp/		1.很生		2014-03-19		竭力争取（支持）；招揽（生意等）		
+upbringing		/ˈʌpbrɪŋɪŋ/		1.很生		2014-03-19		n.教养；抚养；培养		
+litany		/ˈlɪtəni/		1.很生		2014-03-19		n.连祷；冗长的陈述；连续		
+escapade		/ˌeskəˈpeɪd/		1.很生		2014-03-19		n.越轨行为；恶作剧		
+rambling		/ˈræmblɪŋ/		1.很生		2014-03-19		adj.杂乱无章的；闲逛的	动词ramble的现在分词.		
+soil		/sɔɪl/		1.很生		2014-03-19		n.土地；土壤；污物，粪便	v.弄污		
+fertile		/ˈfɜːrtl/		1.很生		2014-03-19		adj.肥沃的；富饶的；能繁殖的；多产的；（创造力）丰富的		
+sown		/səʊn/		1.很生		2014-03-19		v.播		
+nugget		/ˈnʌɡɪt/		1.很生		2014-03-19		n.金属块；有价值的小东西；有用信息；（鸡）块		
+rivet		/ˈrɪvɪt/		1.很生		2014-03-19		n.铆钉	v.铆接；固定；钉牢；集中；吸引		
+indigestion		/ˌɪndɪˈdʒestʃən/		1.很生		2014-03-19		n.消化不良；不能理解		
+schmo		/ʃmoʊ/		1.很生		2014-03-19		n. <俚> 笨人； 愚人	=schmoe		
+acquaintance		/əˈkweɪntəns/		1.很生		2014-03-19		n.熟人；相识；了解		
+flat out		1.很生		2014-03-19		全速地； 直率地		
+pave		/peɪv/		1.很生		2014-03-19		vt.铺路；铺设；铺满；安排		
+hubbub		/ˈhʌbʌb/		1.很生		2014-03-19		n.嘈杂；喧哗		
+empathy		/ˈempəθi/		1.很生		2014-03-19		n.移情作用；共鸣；[心]神入		
+impersonal		/ɪmˈpɜːrsənl/		1.很生		2014-03-19		adj.不受个人感情影响的；冷淡的；没有人情味的；非特指某一人的；客观的		
+concoct		/kənˈkɑːkt/		1.很生		2014-03-19		v.捏造；调制		
+tally		/ˈtæli/		1.很生		2014-03-19		n.帐；记分；一致；标签	vt.计算；记录；使一致	vi.计算；记分；一致		
+quid pro quo		/ˌkwɪdproʊˈkwoʊ/		1.很生		2014-03-19		n.补偿物；交换物；代用品		
+misperception		/mɪspə'sepʃn/		1.很生		2014-03-19		n.错误知觉		
+sycophant		/ˈsɪkəfænt/		1.很生		2014-03-19		n.马屁精		
+smarmy		/ˈsmɑːrmi/		1.很生		2014-03-19		adj.令人厌烦的；爱说奉承话的		
+schmooze		/ʃmuːz/		1.很生		2014-03-19		v.闲谈	n.闲谈		
+fostering		/'fɔːstəɪŋ/		1.很生		2014-03-19		v.哺育，养育；抱有（希望），心怀（动词foster的现在分词形式）		
+vanilla		/vəˈnɪlə/		1.很生		2014-03-19		n.香草		
+tailor		/ˈteɪlər/		1.很生		2014-03-19		n.裁缝	vt.缝制；调整使适合	vi.做裁缝		
+decommission		/ˌdiːkəˈmɪʃn/		1.很生		2014-03-19		vt.停止使用，使退役		
+intermittently		/ˌɪntəˈmɪtəntli/		1.很生		2014-03-15		adv.间歇地		
+scenario		/səˈnærioʊ/		1.很生		2014-03-15		n.剧本；情节梗概		
+infringement		/ɪnˈfrɪndʒmənt/		1.很生		2014-03-14		n.驳斥；违反；侵犯		
+illegitimate		/ˌɪləˈdʒɪtəmət/		1.很生		2014-03-13		adj.非法的；私生的；不合规则的		
+falsify		/ˈfɔːlsɪfaɪ/		1.很生		2014-03-13		vt.伪造，篡改；歪曲；改变公认的规则；证明…是假的		
+masquerade		/ˌmæskəˈreɪd/		1.很生		2014-03-13		n.化妆舞会；伪装	v.伪装		
+spoofing		/spuːfɪŋ/		1.很生		2014-03-13		n.电子欺骗		
+waist		/weɪst/		1.很生		2014-03-12		n.腰部；腰		
+pragmatic		/præɡˈmætɪk/		1.很生		2014-03-12		adj.实用主义的；实际的		
+reinstate		/ˌriːɪnˈsteɪt/		1.很生		2014-03-12		vt.使复位；恢复		
+credentials		/krəˈdenʃlz/		1.很生		2014-03-12		n.证书；证件	名词credential的复数形式.		
+dutiful		/ˈduːtɪfl/		1.很生		2014-03-12		adj.顺从的；尽职的；责任感强的		
+sorely		/ˈsɔːrli/		1.很生		2014-03-11		adv.非常地；痛苦地；极度地		
+tempt		/tempt/		1.很生		2014-03-11		vt.诱惑；怂恿；引诱；吸引		
+retain		/rɪˈteɪn/		1.很生		2014-03-06		vt.保持；保留；记住；聘请		
+adornment		/əˈdɔːnmənt/		1.很生		2014-03-06		n.装饰；装饰品		
+alongside		/əˌlɔːŋˈsaɪd/		1.很生		2014-03-06		adv.在旁边	prep.在 ... 旁边		
+aside		/əˈsaɪd/		1.很生		2014-03-06		n.旁白；顺便说的话	adv.在一边；另外；离开		
+offset		/ˈɔːfset/		1.很生		2014-03-05		vt.抵消；弥补；用平版印刷	vi.形成分支	n.补偿；平版印刷；支派；弯管；[计]偏移量		
+obscure		/əbˈskjʊr/		1.很生		2014-03-05		adj.难解的；不著名的；微暗的；[语音学]轻音的	v.使 ... 模糊；隐藏；变模糊	n.模糊不清的东西		
+undo		/ʌnˈduː/		1.很生		2014-03-05		v.解开；松开；取消		
+Sprite		/spraɪt/		1.很生		2014-03-04		n.精灵	n.(商品名)雪碧		
+hassel		/'hæsəl/		1.很生		2014-03-04		n. 激战	v. 与 ... 争辩； 争论	=hassel		
+stripped		/st'rɪpt/		1.很生		2014-03-04		adj.剥夺的；拆除的	动词strip的过去式和过去分词.		
+ageless		/ˈeɪdʒləs/		1.很生		2014-03-03		adj.不老的；永恒的		
+gussy		/ˈɡʌsi/		1.很生		2014-03-03		vt.装饰；粉饰		
+prologue		/ˈproʊlɔːɡ/		1.很生		2014-03-03		n.开场白；序言；序幕		
+rack up		1.很生		2014-03-03		得分； 积累； 获胜； 彻底击败		
+lumberyard		/ˈlʌmbərjɑːrd/		1.很生		2014-03-03		n.木材堆置场；木场		
+unprecedented		/ʌnˈpresɪdentɪd/		1.很生		2014-03-03		adj.空前的；前所未有的		
+polyester		/ˌpɑːliˈestər/		1.很生		2014-03-03		n.聚酯；涤纶		
+merciless		/ˈmɜːrsɪləs/		1.很生		2014-03-03		adj.无慈悲心的；无情的；残忍的		
+tease		/tiːz/		1.很生		2014-03-03		n.揶揄者；戏弄	v.欺负；嘲弄		
+duck		/dʌk/		1.很生		2014-03-03		n.鸭肉；鸭；亲爱的人	v.躲避，闪开；潜入		
+coal		/koʊl/		1.很生		2014-03-03		n.煤；木炭	vt.烧成炭；供应煤	vi.加煤；装煤		
+crib		/krɪb/		1.很生		2014-03-03		n.婴儿小床；食槽	v.抄袭；拘禁		
+purebred		/'pjʊəˌbred/		1.很生		2014-03-03		adj.(动物)纯种的		
+pedigree		/ˈpedɪɡriː/		1.很生		2014-03-03		n.家谱；系谱；血统；(动物的)种	adj.纯种的		
+crunch		/krʌntʃ/		1.很生		2014-03-03		v.发出碎裂声；嘎吱嘎吱地咀嚼；嘎喳嘎喳地碾过	n.嘎吱声；艰难局面；关键时刻		
+automata		/ɔːˈtɒmətə/		1.很生		2014-03-03		n.自动机器；自动装置；机械地动作的人	名词automaton的复数形式.		
+finite automata		1.很生		2014-03-03		有限时序机		
+notation		/noʊˈteɪʃn/		1.很生		2014-03-03		n.记号；表示法；注释；记法		
+preceding		/priː'siːdɪŋ/		1.很生		2014-03-03		adj.在前的；在先的		
+export		/ˈekspɔːrt/		1.很生		2014-03-03		n.输出；出口；输出品；输出存储器的信息	v.输出；出口；带走，运走；从存储器输出信息
+		
+lexeme		/ˈleksiːm/		1.很生		2014-03-03		n.[语]词位		
+lexical		/ˈleksɪkl/		1.很生		2014-03-02		adj.词汇的；词典的		
+competent		/ˈkɑːmpɪtənt/		1.很生		2014-03-01		adj.有能力的；足够的；胜任的		
+closure		/ˈkloʊʒər/		1.很生		2014-02-28		n.关闭；关口；讨论终结；终结		
+escalation		/ˌeskəˈleɪʃn/		1.很生		2014-02-27		n.逐步扩大；增加		
+delegate		/ˈdelɪɡeɪt/		1.很生		2014-02-27		n.代表	v.派 ... 为代表；委派；授权；委托		
+discrepancy		/dɪsˈkrepənsi/		1.很生		2014-02-26		n.差异；不一致；分歧		
+noncompliant		/'nɒnkəm'plaɪnt/		1.很生		2014-02-26		n.不顺从的人；固执的人	adj.不顺从的；不服从的		
+outage		/ˈaʊtɪdʒ/		1.很生		2014-02-26		n.断电；中断供应；储运损耗		
+detour		/ˈdiːtʊr/		1.很生		2014-02-25		n.绕路；便道	v.绕路而行		
+rigorously		/ˈrɪɡərəsli/		1.很生		2014-02-25		adv.严格地		
+bumper		/ˈbʌmpər/		1.很生		2014-02-25		n.保险杠；缓冲器	n.满杯；特大的东西	adj.丰盛的；特大的		
+tear down		/ter daʊn/		1.很生		2014-02-25		拆除； 拆毁		
+truncated		/'trʌŋkeɪtɪd/		1.很生		2014-02-25		adj.被截的；缩短的	动词truncate的过去式和过去分词.		
+notoriously		/nəʊˈtɔːriəsli/		1.很生		2014-02-25		adv.臭名昭著地；众所周知地		
+chunk		/tʃʌŋk/		1.很生		2014-02-25		n.矮胖的人或物；厚块（片）；相当大的量	vt.（高尔夫球）没击中	vi.发出猛冲的声音		
+stomp		/stɑːmp/		1.很生		2014-02-25		vt.跺（脚）；重踏	n.跺脚舞；顿足爵士舞乐曲		
+botnet		/ˈbɑːtnet/		1.很生		2014-02-25		n.僵尸网络（被一程序感染的计算机网络，该程序接收程序创建者指令，向互联网大量主机发送不请自来的邮件、攻击网络等）		
+polar		/ˈpoʊlər/		1.很生		2014-02-25		adj.两极的；对立的	n.极线；极性		
+corrupted		/kə'rʌptɪd/		1.很生		2014-02-25		adj.毁坏的	动词corrupt的过去式和过去分词.		
+vindicate		/ˈvɪndɪkeɪt/		1.很生		2014-02-24		v.证明无辜；证明 ... 正确；维护（权利等）；<废>报仇		
+onerous		/ˈɑːnərəs/		1.很生		2014-02-24		adj.繁重的		
+pretence		/ˈpriːtens/		1.很生		2014-02-24		n.假装；自命；无事实根据的要求	=pretense（美）.		
+murky		/ˈmɜːrki/		1.很生		2014-02-24		adj.黑暗的；朦胧的；烟雾弥漫的；含糊的；隐晦的		
+delve		/delv/		1.很生		2014-02-24		vi.探究；挖掘；搜索		
+gentle		/ˈdʒentl/		1.很生		2014-02-24		adj.温和的；轻柔的；温顺的；文雅的；出身名门的		
+glacial		/ˈɡleɪʃl/		1.很生		2014-02-24		adj.冰川(期)的；非常冷的；缓慢的；(人)态度不友善的		
+compilation		/ˌkɑːmpɪˈleɪʃn/		1.很生		2014-02-24		n.汇集；编写；编辑		
+clogged		/klɑːgd/		1.很生		2014-02-24		adj.塞满的	动词clog的过去式和过去分词形式.		
+lane		/leɪn/		1.很生		2014-02-24		n.小路；小巷；行车道；跑道；航道		
+collapse		/kəˈlæps/		1.很生		2014-02-24		v.（使）倒塌；（使）崩溃；（使）瓦解；折叠	n.倒塌；崩溃；暴跌		
+bog		/bɑːɡ/		1.很生		2014-02-24		n. 沼泽	v. 使 ... 陷于泥沼； 陷于困境		
+threshold		/ˈθreʃhoʊld/		1.很生		2014-02-24		n.门槛；开端；界限；入口		
+blissfully		/ˈblɪsfəli/		1.很生		2014-02-24		adv.幸福地		
+distill		/dɪs'tɪl/		1.很生		2014-02-24		v.蒸馏；滴下；吸取；提炼		
+distilled		/dɪ'stɪld/		1.很生		2014-02-24		adj.蒸馏得来的	动词distill的过去式和过去分词形式.		
+delimitations		/diːlɪmɪ'teɪʃnz/		1.很生		2014-02-24		界定		
+cohesive		/koʊˈhiːsɪv/		1.很生		2014-02-24		adj.粘性的；有结合性的；有粘聚性的		
+gem		/dʒem/		1.很生		2014-02-24		n.宝石；珍品；受到宠爱或评价很高的人；松糕	vt.用宝石装饰		
+whittle		/ˈwɪtl/		1.很生		2014-02-24		v.削(木头)；削减		
+subtlety		/ˈsʌtlti/		1.很生		2014-02-24		n.微妙；敏锐；狡猾		
+inadvertently		/ˌɪnədˈvɜːrtəntli/		1.很生		2014-02-24		adv.不注意地；疏忽地；非故意地		
+deliberately		/dɪˈlɪbərətli/		1.很生		2014-02-24		adv.故意地；不慌不忙地		
+implicity		/ɪm'plɪsɪtɪ/		1.很生		2014-02-24		n.不怀疑；不问原因；【计】隐含性		
+conundrum		/kəˈnʌndrəm/		1.很生		2014-02-24		n.谜语；难题		
+invocation		/ˌɪnvəˈkeɪʃn/		1.很生		2014-02-24		n.祈祷；乞灵；（法律的）实施；[计]调用		
+comprise		/kəmˈpraɪz/		1.很生		2014-02-24		vt.构成；包含		
+encounter		/ɪnˈkaʊntər/		1.很生		2014-02-24		n.意外的相见；邂逅；遭遇	v.遭遇；遇到；偶然碰到		
+afflict		/əˈflɪkt/		1.很生		2014-02-24		vt.使苦恼；折磨		
+amusing		/əˈmjuːzɪŋ/		1.很生		2014-02-23		adj.有趣的；引人发笑的		
+hilarious		/hɪˈleriəs/		1.很生		2014-02-23		adj.欢闹的；愉快的		
+vulnerability		/ˌvʌlnərəˈbɪləti/		1.很生		2014-02-23		n.易受攻击；弱点，脆弱；[计]漏洞		
+oppose		/əˈpoʊz/		1.很生		2014-02-23		v.反对；对抗；使对立		
+conventional		/kənˈvenʃənl/		1.很生		2014-02-23		adj.传统的；惯例的；常规的		
+relevance		/ˈreləvəns/		1.很生		2014-02-23		n.中肯；关联；相关性		
+legitimate		/lɪˈdʒɪtɪmət/		1.很生		2014-02-23		adj.合法的；世袭的；婚生的；正当的；合理的	vt.使合法；授权；宣布 ... 为合法		
+precise		/prɪˈsaɪs/		1.很生		2014-02-23		adj.精确的；恰好的；准确的；严格的		
+disastrous		/dɪˈzæstrəs/		1.很生		2014-02-23		adj.灾难性的；极糟的		
+brunch		/brʌntʃ/		1.很生		2014-02-23		n.早午餐		
+semantic		/sɪˈmæntɪk/		1.很生		2014-02-23		adj.语义的		
+concierge		/ˌkɒnsɪ'eəʒ/		1.很生		2014-02-23		n.门房；看门人；金钥匙服务		
+cruise		/kruːz/		1.很生		2014-02-23		n.巡航；漫游； 游艇	v.慢速行驶；乘船游览；游弋；巡游		
+nuts		/nʌts/		1.很生		2014-02-23		adj.疯的；狂热的	int.呸；胡说	n.坚果，果仁；螺帽；怪人（名词nut的复数形式）		
+sociopath		/ˈsoʊsioʊpæθ/		1.很生		2014-02-22		n.反社会的人；不爱社交的人		
+audit		/ˈɔːdɪt/		1.很生		2014-02-22		n.审计；查帐	vt.旁听；审计		
+rub		/rʌb/		1.很生		2014-02-22		v.擦；摩擦；搓；惹恼	n.困难；障碍；擦		
+theme		/θiːm/		1.很生		2014-02-22		n.主题；题目；主旋律		
+resistance		/rɪˈzɪstəns/		1.很生		2014-02-22		n.抵抗；抵触；反对；阻力	n.[电]阻抗		
+outnumber		/ˌaʊtˈnʌmbə(r)/		1.很生		2014-02-22		v.数量上超过		
+precedent		/ˈpresɪdənt/		1.很生		2014-02-22		n.先例；惯例	adj.先前的；在先的		
+reevaluation		/'riːɪvæljʊ'eɪʃən/		1.很生		2014-02-21		n.重估计；重求值		
+urging		/ɜːdgɪŋ/		1.很生		2014-02-21		adj.催促的；紧迫的	动词urge的现在分词.		
+infer		/ɪnˈfɜːr/		1.很生		2014-02-21		vt.推断；猜测；暗示	vi.作出推论		
+divine		/dɪˈvaɪn/		1.很生		2014-02-21		adj.神圣的；神的	vt.推断	vi.预言；理解	n.牧师；神学家		
+grievous		/ˈɡriːvəs/		1.很生		2014-02-21		adj.痛苦的；严重的；充满悲伤的		
+speculative		/ˈspekjələtɪv/		1.很生		2014-02-21		adj.推测的；推理的；思索的；投机的		
+stigma		/ˈstɪɡmə/		1.很生		2014-02-21		n.耻辱；污名	n.柱头		
+unbeknownst		/ˌʌnbɪˈnəʊnst/		1.很生		2014-02-21		adj.未知的		
+vibe		/vaɪb/		1.很生		2014-02-21		n.感应；<非正式>氛围，气氛		
+antisocial		/ˌæntiˈsoʊʃl/		1.很生		2014-02-21		adj.非社交的；不擅社交的；反社会的		
+ramification		/ˌræmɪfɪˈkeɪʃn/		1.很生		2014-02-21		n.分叉；衍生物，后果；支流；结果		
+somber		/'sɒmbə/		1.很生		2014-02-21		adj.微暗的；阴暗的；忧郁的；严肃的；严峻的		
+muster		/ˈmʌstər/		1.很生		2014-02-21		v.集合；鼓起	n.集合；检阅；集合人员；点名册		
+uncomprehensible		/ʌnˌkɒmprɪ'hensəbl/		1.很生		2014-02-21		adj.无法理解的		
+pathetic		/pəˈθetɪk/		1.很生		2014-02-21		adj.可怜的；不足的；感伤的；悲哀的		
+fruitful		/ˈfruːtfl/		1.很生		2014-02-21		adj.多产的；富有成效的		
+exhaustive		/ɪɡˈzɔːstɪv/		1.很生		2014-02-21		adj.彻底的；详尽的；消耗的		
+tuck		/tʌk/		1.很生		2014-02-21		v.打摺；卷起；收拢；藏起；<俚>大吃	n.缝摺；船底后端；<俚>食品		
+expedite		/ˈekspədaɪt/		1.很生		2014-02-21		vt.加速；加快；有助于		
+jaw		/dʒɔː/		1.很生		2014-02-21		n.颚；颌；下巴；钳口；说教	v.喋喋不休；教训		
+barely		/ˈberli/		1.很生		2014-02-21		adv.几乎不；刚刚；勉强；少量地		
+prospect		/ˈprɑːspekt/		1.很生		2014-02-21		n.希望；前景；景色	v.勘探；寻找		
+inkling		/ˈɪŋklɪŋ/		1.很生		2014-02-21		n.暗示；略知		
+sequester		/sɪˈkwestər/		1.很生		2014-02-21		vt. 使 ... 隔绝； 隐退	vt. 扣押		
+sequestered		/sɪˈkwestərd/		1.很生		2014-02-21		adj.退隐的；幽静的；偏僻的	动词sequester的过去式和过去分词形式.		
+chalked		/tʃɔːkt/		1.很生		2014-02-21		粉化的, 无光的(搪瓷缺陷),起霜		
+predicament		/prɪˈdɪkəmənt/		1.很生		2014-02-21		n.困境		
+privy		/ˈprɪvi/		1.很生		2014-02-21		adj.私下知情的；私人的；秘密的	n.有利害关系的人；厕所		
+pored		/pɔːd/		1.很生		2014-02-21		adj.有孔的	动词pore的过去式和过去分词.		
+cruelty		/ˈkruːəlti/		1.很生		2014-02-21		n.残酷；虐待；残酷的行为		
+expenditure		/ɪkˈspendɪtʃər/		1.很生		2014-02-21		n.开支；消耗		
+perceive		/pərˈsːv/		1.很生		2014-02-21		v.注意到；觉察到；认为；理解		
+steeling		/'stiːlɪŋ/		1.很生		2014-02-21		n.镀铁(钢化作用)		
+lofty		/ˈlɔːfti/		1.很生		2014-02-21		adj.高的；崇高的；高尚的；傲慢的		
+affirm		/əˈfɜːrm/		1.很生		2014-02-21		vt.证实；断言；肯定		
+forthcoming		/ˌfɔːrθˈkʌmɪŋ/		1.很生		2014-02-21		adj.即将到来的；现成的；乐意帮助的		
+aptly		/ˈæptli/		1.很生		2014-02-21		adv.适当地；适宜地；巧妙地		
+accusatory		/əˈkjuːzətɔːri/		1.很生		2014-02-21		adj.责问的；非难的；控告的		
+eternity		/ɪˈtɜːrnəti/		1.很生		2014-02-21		n.永远；来世；不朽；漫长的时间		
+fortuitously		/fɔːˈtjuːɪtəsli/		1.很生		2014-02-21		adv.偶然地；意外地		
+verbiage		/ˈvɜːbiɪdʒ/		1.很生		2014-02-21		n.废话；冗长；措辞		
+canned		/kænd/		1.很生		2014-02-21		adj.罐装的；预录的；千篇一律的		
+anecdotes		/'ænɪkdəʊts/		1.很生		2014-02-21		n.轶事；趣闻	名词anecdote的复数形式.		
+recalcitrant		/rɪˈkælsɪtrənt/		1.很生		2014-02-21		adj.反抗的；顽强的		
+loom		/luːm/		1.很生		2014-02-21		n.织布机	n.若隐若现	vi.隐约可见；迫近		
+embargo		/ɪmˈbɑːrɡoʊ/		1.很生		2014-02-21		n.封港令；禁运；禁止（通商）		
+praise		/preɪz/		1.很生		2014-02-21		vt.赞美；称赞	n.赞美；称赞；崇拜	vi.赞美		
+applause		/əˈplɔːz/		1.很生		2014-02-21		n.鼓掌；喝彩；赞许		
+prevail		/prɪˈveɪl/		1.很生		2014-02-21		vi.盛行；获胜；劝说		
+gall		/ɡɔːl/		1.很生		2014-02-21		v.擦伤；烦恼；激怒；羞辱	n.胆汁；苦味；怨恨；<口>厚颜无耻	n.伤痛处	n.虫瘿		
+livid		/ˈlɪvɪd/		1.很生		2014-02-21		adj.铅色的；苍白的；暴怒的		
+incident		/ˈɪnsɪdənt/		1.很生		2014-02-21		n.事变；事件；插曲	adj.难免的；附带的		
+pester		/ˈpestər/		1.很生		2014-02-21		v.纠缠；使苦恼		
+unduly		/ˌʌnˈduːli/		1.很生		2014-02-21		adv.过度地；不适当地		
+merit		/ˈmerɪt/		1.很生		2014-02-21		n.优点；功绩；价值	v.值得；应得		
+grindstone		/ˈɡraɪndstoʊn/		1.很生		2014-02-21		n.磨刀石；砂轮		
+slog away		1.很生		2014-02-21		vt.苦干		
+slog		/slɑːɡ/		1.很生		2014-02-21		v.艰难行进；猛击；苦干；决出胜负	n.苦工；长途跋涉		
+egregiously		/ɪɡ'riːdʒiəəslɪ/		1.很生		2014-02-21		adv.惊人地(无比地；异乎寻常地)		
+criticize		/ˈkrɪtɪsaɪz/		1.很生		2014-02-21		v.批评；挑剔；评论；非难；吹毛求疵		
+Enraged		1.很生		2014-02-21		adj.激怒的	动词enrage的过去式和过去分词.		
+seize		/siːz/		1.很生		2014-02-21		v.抓住；夺取；利用；没收		
+utterly		/ˈʌtəlɪ/		1.很生		2014-02-21		adv.完全；全然；绝对		
+abuse		/əˈbjuːs/		1.很生		2014-02-21		n.滥用；恶习	vt.滥用；辱骂；虐待		
+scrap		/skræp/		1.很生		2014-02-21		n.碎片；废品；少许；瘦小的人；争斗；打架	v.报废；舍弃；打架		
+bent over		1.很生		2014-02-21		v. 弯腰； 伏在 ... 上面； 屈向		
+snicker		/ˈsnɪkər/		1.很生		2014-02-21		vi.窃笑	n.窃笑		
+meekly		/miːkli/		1.很生		2014-02-21		adv.卑恭屈节地；温顺地		
+flabbergast		/'flæbəˌgɑːst/		1.很生		2014-02-21		v.使大吃一惊		
+murderous		/ˈmɜːrdərəs/		1.很生		2014-02-21		adj.蓄意谋杀的；行凶的；凶恶的；残忍的；要命的		
+reprieve		/rɪˈpriːv/		1.很生		2014-02-21		v.暂缓处刑；暂时缓解	n.缓刑；缓刑令		
+triplicate		/ˈtrɪplɪkət/		1.很生		2014-02-21		n.一式三份；重复三次	v.制成一式三份；使成三倍	adj.一式三份的；三倍的		
+confession		/kən'feʃən/		1.很生		2014-02-21		n.自认；自白；招供；忏悔		
+enact		/ɪˈnækt/		1.很生		2014-02-21		vt.制定法律；扮演		
+kenning		/'kenɪŋ/		1.很生		2014-02-21		n.比喻的复合辞		
+collating		/kə'leɪtɪŋ/		1.很生		2014-02-21		动词collate的现在分词形式； 核对； 整理		
+axe		/æks/		1.很生		2014-02-21		n.斧；解雇；倒闭	vt.用斧砍；解雇；大量削减		
+rectify		/ˈrektɪfaɪ/		1.很生		2014-02-21		vt.改正；[化]精馏；[电]整流		
+bail out		1.很生		2014-02-21		v.保释；跳伞；往外舀水		
+dire		/ˈdaɪər/		1.很生		2014-02-21		adj.可怕的；悲惨的；极其的		
+exacerbate		/ɪɡˈzæsərbeɪt/		1.很生		2014-02-21		vt.加重(使 ... 恶化；激怒)		
+spate		/speɪt/		1.很生		2014-02-21		n.泛滥；洪水；突然的一阵		
+reiterated		/riː'ɪtəreɪt/		1.很生		2014-02-21		v.重申（动词reiterate的过去式和过去分词）		
+dress down		1.很生		2014-02-21		狠狠地训斥； 穿着随便		
+stemmed		/stemd/		1.很生		2014-02-21		adj. 装有 ... 柄的	动词stem的过去式和过去分词形式		
+inexcusable		/ˌɪnɪkˈskjuːzəbl/		1.很生		2014-02-21		adj.不可宽恕的；不可原谅的		
+legitimately		/lɪˈdʒɪtɪmətli/		1.很生		2014-02-21		adv.正当地；合理地		
+berate		/bɪˈreɪt/		1.很生		2014-02-21		v.〈正式或文〉严厉责备		
+demeanor		/dɪ'miːnə/		1.很生		2014-02-21		n.行为；风度；举止		
+intimidating		/ɪnˈtɪmɪdeɪtɪŋ/		1.很生		2014-02-21		adj.威胁的；咄咄逼人的	动词intimitate的现在分词.		
+snap back		1.很生		2014-02-21		n.快反向(急速返回；急变返回)		
+admonish		/ədˈmɑːnɪʃ/		1.很生		2014-02-21		vt.警告；训诫；告诫；提醒；敦促		
+confessed		/kən'fest/		1.很生		2014-02-21		adj.众所周知的；公认的	动词confess的过去式和过去分词形式.		
+cringe		/krɪndʒ/		1.很生		2014-02-21		vi.畏缩；觉得尴尬不安或难为情；阿谀，奉承	n.畏缩；阿谀，奉承		
+unmitigated		/ʌnˈmɪtɪɡeɪtɪd/		1.很生		2014-02-21		adj.未缓和的；十足的；绝对的		
+tangible		/ˈtændʒəbl/		1.很生		2014-02-21		adj.可触摸的；实际的；有形的；确凿的		
+substitute		/ˈsʌbstɪtuːt/		1.很生		2014-02-21		n.代用品；代替者；替补队员	vt.代替；用 ... 代替；代以		
+meandering		/mɪ'ændərɪŋ/		1.很生		2014-02-21		n.曲径；漫步	adj.曲折的；漫步的	动词meander的现在分词.		
+muttering		/ˈmʌtərɪŋ/		1.很生		2014-02-21		n.嗫语；嘀咕	动词mutter的现在分词形式.		
+stark		/stɑːrk/		1.很生		2014-02-21		adj.严酷的；荒凉的；光秃秃的；鲜明的	adv.完全；实在；简直		
+lax		/læks/		1.很生		2014-02-21		adj.松弛的；松懈的；不严的；[语]松弛元音的		
+proximity		/prɑːkˈsɪməti/		1.很生		2014-02-21		n.接近；亲近		
+postmortem		/ˌpoʊst'mɔːtəm/		1.很生		2014-02-21		n.验尸；事后讨论检查	adj.死后的；事后的		
+bypass		/ˈbaɪpɑːs/		1.很生		2014-02-21		vt.绕开；忽视	n.支路；旁道		
+swamped		/s'wɒmpt/		1.很生		2014-02-21		adj.泥沼状的；成为沼泽的	动词swamp的过去式和过去分词.		
+swamped with		1.很生		2014-02-21		忙得不可开交		
+hybrid		/ˈhaɪbrɪd/		1.很生		2014-02-21		n.混合物；杂种；混血儿	adj.杂种的；混合的		
+primitive		/ˈprɪmətɪv/		1.很生		2014-02-21		adj.原始的；简陋的	n.文艺复兴前的艺术家；原始人		
+stink		/stɪŋk/		1.很生		2014-02-21		n.臭味；臭气	vi.发臭味；招人讨厌		
+luggage		/ˈlʌɡɪdʒ/		1.很生		2014-02-21		n.行李		
+fussily		1.很生		2014-02-21		adv.无事空扰地；小题大做地；大惊小怪地		
+variegated		/ˈverɪɡeɪtɪd/		1.很生		2014-02-21		adj.杂色的；斑驳的；形形色色的	动词variegate的过去式和过去分词形式.		
+binding		/ˈbaɪndɪŋ/		1.很生		2014-02-21		n.镶边；（书籍的）封皮；（滑雪板的）皮靴固定装置	adj.必须遵守的；有法律约束力的		
+archives		/'ɑːkaɪvz/		1.很生		2014-02-21		n.档案；档案馆	名词archive的复数形式.		
+preemptive		/priː'emptɪv/		1.很生		2014-02-20		adj.优先购买的；先发制人的		
+hit the sack		1.很生		2014-02-20		就寝； 睡觉		
+sack		/sæk/		1.很生		2014-02-20		n.袋子；解雇	vt.解雇；把 ... 装入袋子；劫掠		
+ethical dilemmas		1.很生		2014-02-20		伦理困境		
+worn		/wɔːrn/		1.很生		2014-02-20		adj.用旧的；穿坏的；精疲力竭的；憔悴的	动词wear的过去分词形式		
+almond		/ˈɑːmənd/		1.很生		2014-02-20		n.杏仁；扁桃；巴旦木，巴旦杏		
+bloat		/bloʊt/		1.很生		2014-02-19		vt.使肿胀	adj.肿胀的	n.膨胀；自傲；(家畜)肠道炎		
+counter-intuitive		1.很生		2014-02-19		adj.反直觉的		
+solitary		/ˈsɑːləteri/		1.很生		2014-02-19		adj.孤独的；独立的；单个的；唯一的；荒凉的	n.隐士；单独禁闭		
+deprecate		/ˈdeprəkeɪt/		1.很生		2014-02-19		v.声明不赞成；抨击；反对		
+retrospectively		/ˌretrəˈspektɪvli/		1.很生		2014-02-19		adv.回顾地		
+commute		/kəˈmjuːt/		1.很生		2014-02-19		v.通勤；折换；减刑；改变；交换	n.乘车上下班		
+reap		/riːp/		1.很生		2014-02-19		vt.收割；收获；获得	vi.收割		
+trim		/trɪm/		1.很生		2014-02-19		v.修剪；削减；装饰；调整帆以适应风向	adj.整洁的；匀称的	n.修剪；整齐；装饰		
+opt		/ɑːpt/		1.很生		2014-02-19		vi.选择；决定		
+opt in		1.很生		2014-02-19		v.决定参加		
+longitude		/ˈlɑːndʒətuːd/		1.很生		2014-02-19		n.经度		
+latitude		/ˈlætɪtuːd/		1.很生		2014-02-19		n.纬度；自由		
+intentional		/ɪnˈtenʃənl/		1.很生		2014-02-19		adj.存心的；故意的		
+wane		/weɪn/		1.很生		2014-02-18		n.衰落；亏缺；变弱	v.变小；亏缺；呈下弦		
+prosperity		/prɑːˈsperəti/		1.很生		2014-02-18		n.繁荣；兴旺		
+wreck		/rek/		1.很生		2014-02-18		v.使…失事；使…遇难；破坏	n.遇难；残骸；破坏；（船）失事下沉		
+distinctive		/dɪˈstɪŋktɪv/		1.很生		2014-02-18		adj.独特的，有特色的，与众不同的		
+toss		/tɔːs/		1.很生		2014-02-18		n.投掷；震荡	v.投掷；摇荡；辗转		
+halt		/hɔːlt/		1.很生		2014-02-18		n.停止；止步	v.停止；中止；暂停	v.踌躇；犹豫；跛行		
+fickle		/ˈfɪkl/		1.很生		2014-02-18		adj.变幻无常的；易变的		
+fret		/fret/		1.很生		2014-02-18		v.(使)烦恼；(使)焦急；(使)磨损；侵蚀	n.烦躁；磨损；焦急	n.[音]音品；音柱		
+anxiety		/æŋˈzaɪəti/		1.很生		2014-02-18		n.焦虑；担心；渴望		
+disguise		/dɪsˈɡaɪz/		1.很生		2014-02-18		vt.掩饰；假装；假扮	n.伪装；伪装物		
+robust		/roʊˈbʌst/		1.很生		2014-02-18		adj.强健的；稳固的；耐用的；粗野的；浓的		
+adherent		/ədˈhɪrənt/		1.很生		2014-02-17		n.追随者；拥护者；信徒	adj.附着的；粘连的		
+viable		/ˈvaɪəbl/		1.很生		2014-02-17		adj.能生存的；可行的		
+gorilla		/ɡəˈrɪlə/		1.很生		2014-02-17		n.大猩猩；<口>残暴的人		
+tip off		/ˈtɪpˌɔːfˌ -ˌɑːf/		1.很生		2014-02-17		事先给警告(或暗示)； 告密		
+restaurant		/ˈrestrɑːnt/		1.很生		2014-02-17		n.餐馆；饭店		
+jimmy		/ˈdʒɪmi/		1.很生		2014-02-17		n.撬棒	v.撬开(门、窗等)	Jimmy.	n.吉米(男子名)		
+reel		/riːl/		1.很生		2014-02-17		v.卷；绕	v.眩晕；旋转；蹒跚	n.卷筒；线轴		
+earnestness		/ˈɜːnɪstnəs/		1.很生		2014-02-17		n.坚定；认真；急切		
+diligence		/ˈdɪlɪdʒəns/		1.很生		2014-02-17		n.勤奋		
+pursuit		/pərˈsuːt/		1.很生		2014-02-17		n.追求；追赶；工作		
+parenthesize		/pə'renθəˌsaɪz/		1.很生		2014-02-17		v. 将 ... 加上括弧		
+crop up		/krɑːp ʌp/		1.很生		2014-02-17		突然发生； 突然出现		
+oversight		/ˈoʊvərsaɪt/		1.很生		2014-02-17		n.疏忽；失察；监管；看管		
+pervade		/pərˈveɪd/		1.很生		2014-02-17		vt.弥漫；遍及；蔓延		
+superior		/suːˈpɪriər/		1.很生		2014-02-17		n.上级；高手；上标	adj.高傲的；上层的；上好的；出众的		
+paradigm		/ˈpærədaɪm/		1.很生		2014-02-17		n.范例；示范；典范；[语]词形变化表		
+adventurous		/ədˈventʃərəs/		1.很生		2014-02-17		adj.爱冒险的；大胆的；冒险的；惊险的		
+heritage		/ˈherɪtɪdʒ/		1.很生		2014-02-17		n.遗产；继承物		
+tack on		1.很生		2014-02-17		添加		
+federation		/ˌfedəˈreɪʃn/		1.很生		2014-02-17		n.联邦；联合；联盟		
+harness		/ˈhɑːrnɪs/		1.很生		2014-02-17		n.马具；安全带；甲胄；系在身上的绳子	vt.束以马具；披上甲胄；利用；管理；控制		
+accustomed		/əˈkʌstəmd/		1.很生		2014-02-17		adj.习惯了的；通常的		
+clobber		/ˈklɑːbər/		1.很生		2014-02-17		v.狠揍；不断地打击；彻底打垮；使受到严重的经济损失	n.<口>衣服或装备		
+mesh		/meʃ/		1.很生		2014-02-16		n.网孔；网状物；罗网；[机]啮合	vt.使匹配；以网捕捉；使啮合	vi.被网缠住；互相协调；啮合		
+collider		/kəˈlaɪdər/		1.很生		2014-02-16		n.对撞机；碰撞机		
+rigid		/ˈrɪdʒɪd/		1.很生		2014-02-16		adj.坚硬的；严格的；固执的；僵硬的；刻板的		
+dispenser		/dɪˈspensər/		1.很生		2014-02-16		n.药剂师；配药员；分配者		
+incision		/ɪnˈsɪʒn/		1.很生		2014-02-16		n.切口；切割		
+take out		/teɪk aʊt/		1.很生		2014-02-16		vt.取出；拔掉；去掉；出发；发泄	vi.开始		
+emergency		/iˈmɜːrdʒənsi/		1.很生		2014-02-16		n.突发事件；紧急状态	adj.应急的；紧急的；备用的		
+politics		/ˈpɑːlətɪks/		1.很生		2014-02-16		n.政治；政治学；政治活动；政治策略；政见		
+foam		/foʊm/		1.很生		2014-02-15		n.泡沫；汗	v.起泡沫；吐口沫；愤怒；沸腾		
+advocate		/ˈædvəkeɪt/		1.很生		2014-02-15		v.提倡；主张	n.拥护者；提倡者；律师；辩护者		
+endeavour		/ɪnˈdevər/		1.很生		2014-02-15		v.<英>尽力；努力	n.奋力；尽力	=endeavor(美)		
+vital		/ˈvaɪtl/		1.很生		2014-02-15		adj.至关重要的；有活力的；生死攸关的		
+goofy		/ˈɡuːfi/		1.很生		2014-02-15		adj.愚笨的；傻瓜的		
+crucial		/ˈkruːʃl/		1.很生		2014-02-15		adj.决定性的；关键的		
+flaw		/flɔː/		1.很生		2014-02-15		n.瑕疵；缺陷；破绽；裂缝	v.使破裂；有瑕疵		
+slam		/slæm/		1.很生		2014-02-15		v.砰地关上；猛放；猛烈攻击	n.砰然声；猛烈抨击	n.满贯		
+morale		/məˈræl/		1.很生		2014-02-15		n.士气；斗志；道德准则		
+empower		/ɪmˈpaʊər/		1.很生		2014-02-15		vt.授权；使能够		
+splint		/splɪnt/		1.很生		2014-02-14		n.薄木片；托板；夹板		
+limb		/lɪm/		1.很生		2014-02-14		n.肢体；枝干；树枝	vt.肢解		
+disclosure		/dɪsˈkloʊʒər/		1.很生		2014-02-14		n.揭发；公开；透露		
+guidance		/ˈɡaɪdns/		1.很生		2014-02-14		n.指导；引导；导航		
+utmost		/ˈʌtmoʊst/		1.很生		2014-02-13		adj.极度的；最大限度的	n.极限；最大可能		
+humane		/hjuːˈmeɪn/		1.很生		2014-02-13		adj.仁慈的；人道的		
+boarding		/ˈbɔːrdɪŋ/		1.很生		2014-02-13		adj.供膳宿的	n.木材；登船		
+unfolded		/ʌn'fəʊldɪd/		1.很生		2014-02-13		adj.展开的；解开的	动词unfold的过去式和过去分词形式.		
+landscape		/ˈlændskeɪp/		1.很生		2014-02-13		n.风景；风景画；山水；[计]横向	v.美化景观		
+nevertheless		/ˌnevərðəˈles/		1.很生		2014-02-13		adv.尽管如此；不过；仍然	conj.然而；不过		
+tension		/ˈtenʃn/		1.很生		2014-02-13		n.紧张；拉力；张力；紧张状态；[电]电压	vt.使拉紧；使绷紧		
+put forward		/pʊt ˈfɔːrwəd/		1.很生		2014-02-13		v.提出		
+scholastic		/skəˈlæstɪk/		1.很生		2014-02-13		adj.学术的；学习的；学院的；教育的；拘泥于形式的，教条的	n.经院哲学家；墨守成规者；学究		
+inclusion		/ɪnˈkluːʒn/		1.很生		2014-02-13		n.包含		
+extraneous		/ɪkˈstreɪniəs/		1.很生		2014-02-13		adj.外来的；无关的		
+cannibal		/ˈkænɪbl/		1.很生		2014-02-13		n.食人者；吃同类的动物		
+drastically		/ˈdrɑːstɪkli/		1.很生		2014-02-13		adv.大幅度地；彻底地		
+perplexed		/pərˈplekst/		1.很生		2014-02-13		adj.困惑的；不知所措的；纠缠不清的	动词perplex的过去式和过去分词.		
+whacky		1.很生		2014-02-13		adj.怪诞的；发狂的	=wacky.		
+grilling		/ˈɡrɪlɪŋ/		1.很生		2014-02-13		n.烤；炙；盘问	动词grill的现在分词形式.		
+get along		/ɡet əˈlɔːŋ/		1.很生		2014-02-12		进展； 前进； 过活； 友好相处		
+prone		/proʊn/		1.很生		2014-02-12		adj.易于 ... 的；有 ... 倾向的；俯卧的		
+buck		/bʌk/		1.很生		2014-02-12		n.<俚>一美元	n.钱；雄鹿；雄兔；(鹿皮等)制物；<美口>年轻男子	v.马弓背踢后腿挑起；抵制；振作		
+compulsory		/kəmˈpʌlsəri/		1.很生		2014-02-12		adj.强制的；势在必行的；义务的		
+fluctuate		/ˈflʌktʃueɪt/		1.很生		2014-02-12		vi.波动；动摇；起伏	vt.使动摇		
+commitment		/kəˈmɪtmənt/		1.很生		2014-02-12		n.承诺；保证；信奉；献身；委任；交押		
+hitch		/hɪtʃ/		1.很生		2014-02-12		n.猛拉；急促猛推；跛行；妨碍；免费搭车	vt.拴住；连住；急拉；拉紧；免费搭车	vi.蹒跚；被缠结；免费乘车		
+contention		/kənˈtenʃn/		1.很生		2014-02-12		n.争论；争辩；争夺；论点		
+contend		/kənˈtend/		1.很生		2014-02-12		v.竞争；争斗；争辩；坚决主张		
+toggle		/ˈtɑːɡl/		1.很生		2014-02-12		n.触发器；套索钉；棒形纽扣	vt.系纽扣；提供索钉；转换	vi.开开关		
+reentrant		/rɪ'entrənt/		1.很生		2014-02-12		adj.重新进入的；凹入的	n.凹角；凹入部分		
+yank		/jæŋk/		1.很生		2014-02-12		v.猛拉；猛拔		
+lapse		/læps/		1.很生		2014-02-12		n.过失；流逝；间隔；堕落；失效	vi.流逝；失效；堕落；停止	vt.使失效		
+placeholder		/ˈpleɪshoʊldər/		1.很生		2014-02-12		n.位置标志符；占位符		
+escalate		/ˈeskəleɪt/		1.很生		2014-02-12		vt.升级	vi.升高；逐步升级		
+celebrity		/səˈlebrəti/		1.很生		2014-02-11		n.名人；名誉；社会名流		
+instinct		/ˈɪnstɪŋkt/		1.很生		2014-02-11		n.直觉；本能；天性	adj.充满的		
+persuade		/pərˈsweɪd/		1.很生		2014-02-11		vt.说服；劝说		
+strap		/stræp/		1.很生		2014-02-11		n.皮带；带子	vt.(用带子)捆扎；(用带子)抽打		
+pastime		/ˈpæstaɪm/		1.很生		2014-02-11		n.消遣；娱乐		
+concession		/kənˈseʃn/		1.很生		2014-02-11		n.让步；特许权；租界；妥协		
+enormous		/ɪˈnɔːrməs/		1.很生		2014-02-11		adj.巨大的；庞大的		
+ascertain		/ˌæsərˈteɪn/		1.很生		2014-02-11		vt.确定；查明；探知		
+restoration		/ˌrestəˈreɪʃn/		1.很生		2014-02-11		n.恢复；归还；复位		
+intricate		/ˈɪntrɪkət/		1.很生		2014-02-11		adj.复杂的；难懂的		
+categorised		/'kætɪgəˌraɪzd/		1.很生		2014-02-11		adj.分类的	动词categorise的过去式和过去分词形式.	=categorized(美).		
+sift		/sɪft/		1.很生		2014-02-11		v.筛下；筛分；详察		
+dustbin		/ˈdʌstbɪn/		1.很生		2014-02-11		n.垃圾箱		
+debris		/dəˈbriː/		1.很生		2014-02-11		n.碎片；残骸		
+devastation		/ˌdevəˈsteɪʃn/		1.很生		2014-02-11		n.大面积破坏；极度震惊或悲伤		
+utter		/ˈʌtər/		1.很生		2014-02-11		adj.完全的；全然的；绝对的	v.说；发出；表达		
+timber		/ˈtɪmbər/		1.很生		2014-02-11		n.木材；木料		
+charred		/tʃɑːrd/		1.很生		2014-02-11		adj.烧焦的	动词char的过去式和过去分词形式.		
+charcoal		/ˈtʃɑːrkoʊl/		1.很生		2014-02-11		n.木炭；炭笔		
+sludge		/slʌdʒ/		1.很生		2014-02-11		n.泥泞；淤泥；泥状雪		
+salvage		/ˈsælvɪdʒ/		1.很生		2014-02-11		vt.救助；打捞；抢救	n.海上救助；打捞；抢救		
+desperately		/ˈdespərətli/		1.很生		2014-02-11		adv.拼命地；绝望地；极严重地；孤注一掷地		
+bulk		/bʌlk/		1.很生		2014-02-11		n.体积；容积；大块；大部分；大批	adj.散装的；大量的	vt.使膨胀；使成堆	vi.膨胀；显得重要		
+stationer		/ˈsteɪʃənər/		1.很生		2014-02-11		n.文具商；文具店；<古>出版商；书商		
+mobilise		/'moʊbɪlɑɪz/		1.很生		2014-02-11		v.动员；赋予可动性	=mobilize（美).		
+conservator		/kənˈsɜːrvətər/		1.很生		2014-02-11		n.保护者；管理员；管理委员		
+lawn		/lɔːn/		1.很生		2014-02-11		n.草坪；草地		
+porcelain		/ˈpɔːrsəlɪn/		1.很生		2014-02-11		n.瓷器；瓷		
+precious		/ˈpreʃəs/		1.很生		2014-02-11		adj.宝贵的；珍贵的；矫揉造作的	adv.极其	n.<口>宝贝，心爱的人		
+steward		/ˈstuːərd/		1.很生		2014-02-11		n.乘务员；管家；干事；管理员	v.做乘务员；管理		
+retreat		/rɪˈtriːt/		1.很生		2014-02-11		n.撤退；改变；隐居处	v.撤退；改变；退避；缩回象棋的棋子		
+swept up		1.很生		2014-02-11		v.扫除		
+scene		/siːn/		1.很生		2014-02-11		n.情景；场；景		
+ashes		/'æʃɪz/		1.很生		2014-02-11		n.灰烬	名词ash的复数形式.		
+dismantle		/dɪsˈmæntl/		1.很生		2014-02-11		vt.拆除；拆开；去除；废除		
+leisure		/ˈliːʒər/		1.很生		2014-02-11		n.闲暇；休闲		
+allergic		/əˈlɜːrdʒɪk/		1.很生		2014-02-11		adj.过敏的；反感的		
+carer		/ˈkerər/		1.很生		2014-02-11		n.护理病人者；照顾老人者		
+bedsit		/ˈbedsɪt/		1.很生		2014-02-11		n.卧室兼起居室		
+fellow		/ˈfeloʊ/		1.很生		2014-02-11		n.家伙；同事；同伴；研究员；校董	adj.同伴的；同事的；同类的		
+herb		/ɜːrb/		1.很生		2014-02-11		n.药草；香草		
+bedsettee		/bedse'tiː/		1.很生		2014-02-11		两用沙发椅,沙发床		
+distant		/ˈdɪstənt/		1.很生		2014-02-11		adj.疏远的；遥远的；远房的；陌生的；远行的		
+analogous		/əˈnæləɡəs/		1.很生		2014-02-10		adj.类似的		
+poll		/poʊl/		1.很生		2014-02-10		n.民意测验；投票；票数	v.做民意测验；获得 ... 票		
+tedious		/ˈtiːdiəs/		1.很生		2014-02-10		adj.单调乏味的；沉闷的		
+asynchronous		/eɪˈsɪŋkrənəs/		1.很生		2014-02-10		adj.异步的		
+auxiliary		/ɔːɡˈzɪliəri/		1.很生		2014-02-10		n.助动词；辅助物；帮助者	adj.辅助的；附加的		
+gear		/ɡɪr/		1.很生		2014-02-10		n.传动装置；齿轮；排挡；工具；装备	v.调整；使适应于；以齿轮连起		
+compact		/ˈkɑːmpækt/		1.很生		2014-02-10		adj.紧密的；紧凑的；简洁的	vt.使简洁；使装满；压实	n.合约条约；梳妆粉盒；<美>小型汽车		
+competency		/ˈkɑːmpɪtənsi/		1.很生		2014-02-10		n.能力；胜任；技能		
+uptime		/ˈʌptaɪm/		1.很生		2014-02-10		n.(计算机等的)正常运行时间		
+turtle		/ˈtɜːrtl/		1.很生		2014-02-10		n.高翻领；【动】龟，海龟	v.倾覆，翻身；捕龟		
+tortoise		/ˈtɔːrtəs/		1.很生		2014-02-10		n.龟		
+poised		/pɔɪzd/		1.很生		2014-02-10		adj.泰然自若的；蓄势待发；保持平衡的；有充分准备	动词poise的过去式和过去分词.		
+brink		/brɪŋk/		1.很生		2014-02-10		n.边缘；边沿；界限		
+fluid		/ˈfluːɪd/		1.很生		2014-02-10		n.液体；流体	adj.流动的；流畅的；不定的		
+cellular		/ˈseljələr/		1.很生		2014-02-10		adj.细胞的；多孔的；蜂窝式的	n.手机		
+reptile		/ˈreptaɪl/		1.很生		2014-02-10		n.爬行动物；卑鄙的人	adj.爬虫类的		
+parched		/pɑːrtʃt/		1.很生		2014-02-10		adj.焦干的；饥渴的	动词parch的过去式和过去分词形式.		
+amphibious		/æmˈfɪbiəs/		1.很生		2014-02-10		adj.具有双重性的；[生物]两栖的		
+possess		/pəˈzes/		1.很生		2014-02-10		vt.拥有；持有；支配		
+dolphin		/ˈdɑːlfɪn/		1.很生		2014-02-10		n.海豚		
+fossil		/ˈfɑːsl/		1.很生		2014-02-10		n.化石；食古不化的人；守旧的事物		
+resemble		/rɪˈzembl/		1.很生		2014-02-10		v.与…相似；像		
+ichthyosaur		/'ɪkθɪəˌsɔː/		1.很生		2014-02-10		n.鱼龙		
+gills		/gɪls/		1.很生		2014-02-10		n.鳃；垂肉；吉耳(体积单位)	名词gill的复数形式.		
+tight		/taɪt/		1.很生		2014-02-10		adj.紧的；紧身的；密集的；拮据的	adv.紧紧地；牢固地；迅速地		
+dense		/dens/		1.很生		2014-02-10		adj.密集的；稠密的；浓密的		
+put through		/pʊt θrʊ/		1.很生		2014-02-10		vt.接通(电话)；顺利完成		
+excelsior		/ek'selsɪˌɔː/		1.很生		2014-02-10		n.细刨花	int.精益求精的(商标等用语)		
+stab		/stæb/		1.很生		2014-02-10		v.刺；戳；刺伤	n.刺；戳；刺痛；尝试		
+expectancy		/ɪkˈspektənsi/		1.很生		2014-02-10		n.期待；预期		
+promptly		/ˈprɑːmptli/		1.很生		2014-02-10		adv.迅速地；准时地；立即		
+prompt		/prɑːmpt/		1.很生		2014-02-10		adj.迅速的；敏捷的；立刻的	vt.激起；促进；推动；提示	vi.提示	n.提示；提示的内容	n.[商]付款期限		
+solidified		/sə'lɪdəfaɪd/		1.很生		2014-02-10		adj.固化的；结晶的；凝固的	动词solidify的过去式和过去分词形式.		
+run down		/ˈrʌnˌdaʊn/		1.很生		2014-02-10		撞倒； 贬低； 追捕； 查出； （使）筋疲力竭		
+stumble		/ˈstʌmbl/		1.很生		2014-02-10		v.绊倒；蹒跚；犯错误；无意中发现	n.绊倒；错误		
+stumbling		/'stəmblɪŋ/		1.很生		2014-02-10		adj.蹒跚的；阻碍的	动词stumble的现在分词.		
+bacilli		/bəˈsɪlaɪ/		1.很生		2014-02-10		n.杆状菌；芽孢杆菌	名词bacillus的复数形式.		
+malaria		/məˈleriə/		1.很生		2014-02-10		n.疟疾		
+introverted		/ˈɪntrəvɜːrtɪd/		1.很生		2014-02-10		adj.(性格)内向的		
+squeaky		/ˈskwiːki/		1.很生		2014-02-10		adj.吱吱响的；发轧声的；短促尖声的		
+underdog		/ˈʌndərdɔːɡ/		1.很生		2014-02-10		n.处于劣势的一方；牺牲者；受害者；输家		
+grasp		/ɡræsp/		1.很生		2014-02-10		n.把握；领会；抓紧	vt.领会；抓住；紧握		
+intuitive		/ɪnˈtuːɪtɪv/		1.很生		2014-02-10		adj.直觉的		
+immensity		/ɪˈmensəti/		1.很生		2014-02-10		n.无限；巨大；无垠		
+parasite		/ˈpærəsaɪt/		1.很生		2014-02-10		n.寄生虫；寄生生物；食客		
+stranding		/strændɪŋ/		1.很生		2014-02-10		n.搁浅；拧；合股；捻股	动词strand的现在分词形式.		
+decorated		/'dekəreɪtɪd/		1.很生		2014-02-09		adj.装饰的；修饰的	动词decorate的过去式和过去分词.		
+paranoid		/ˈpærənɔɪd/		1.很生		2014-02-08		n.(=paranoiac)患妄想狂者	adj.类似妄想狂的；多疑的		
+evasive		/ɪˈveɪsɪv/		1.很生		2014-02-08		adj.逃避的；难以捉摸的；闪烁其词的		
+parse		/pɑːrs/		1.很生		2014-02-07		v.从语法上分析	n.从语法上分析		
+counterintuitive		/ˌkaʊntərɪn'tjuːɪtɪv/		1.很生		2014-02-07		adj.违反直觉的		
+vexing		/veksɪŋ/		1.很生		2014-02-07		adj.使人烦恼的	动词vex的现在分词形式.		
+sailing		/ˈseɪlɪŋ/		1.很生		2014-02-07		n.航行；航海；启航	动词sail的现在分词.		
+coaster		/ˈkoʊstər/		1.很生		2014-02-07		n.杯垫；小托盘；惯性运转装置；沿海航行船		
+cryptic		/ˈkrɪptɪk/		1.很生		2014-02-07		adj.隐秘的；秘密的；用密码的；隐晦的		
+decipher		/dɪˈsaɪfər/		1.很生		2014-02-07		vt.译解；辨认		
+grub		/ɡrʌb/		1.很生		2014-01-28		n.[动]蛆；苦工；<非正式>食物	v.挖掘；翻掘；搜寻；做苦工		
+cynical		/ˈsɪnɪkl/		1.很生		2014-01-27		adj.愤世嫉俗的；悲观的；恶意的		
+scrutiny		/ˈskruːtəni/		1.很生		2014-01-25		n.监视；细看；周密的调查		
+consolidate		/kən'sɒləˌdeɪt/		1.很生		2014-01-21		v.合并；统一；巩固		
+blurry		/ˈblɜːri/		1.很生		2013-12-18		adj.模糊的；失去焦距的		
+kludge		/kluːdʒ/		1.很生		2013-12-17		n.杂牌电脑；组装计算机		
+turf		/tɜːrf/		1.很生		2013-12-17		n.草皮；泥炭；赛马场；赛马	v.铺草皮		
+spike		/spaɪk/		1.很生		2013-12-10		n.长钉；尖状物；钉鞋；峰值；穗；穗状花；【排球】扣球	v.以大钉钉牢；使 ... 失效；用尖物刺伤；【排球】扣球		
+bat		/bæt/		1.很生		2013-12-07		n.球棒；球拍	n.蝙蝠	v.用棒击打；拍打	v.眨眼睛		
+tender		/ˈtendər/		1.很生		2013-12-05		adj.温柔的；脆弱的；敏感的；亲切的；嫩的；痛的	v.提出；投标	n.投标；照管人；补给船；煤水车		
+bail		/beɪl/		1.很生		2013-12-04		n.保释；杓；把手；保证金；担保人	vt.保释；往外舀水；使摆脱困境	vi.舀空		
+uterus		/ˈjuːtərəs/		1.很生		2013-12-03		n.子宫		
+analogy		/əˈnælədʒi/		1.很生		2013-12-03		n.类比；相似；类似		
+astonishing		/əˈstɑːnɪʃɪŋ/		1.很生		2013-12-03		adj.惊人的	动词astonish的现在分词.		
+put forth		/pʊt fɔːrθ/		1.很生		2013-12-03		提出； 产生； (使)长出		
+diaper		/ˈdaɪpər/		1.很生		2013-11-30		n.尿布；菱形花纹的织物	vt.换尿布；装饰菱形花纹		
+demangling		/dɪ'mɑːŋɡlɪŋ/		1.很生		2013-11-30		识别解码		
+inherently		/ɪnˈherəntli/		1.很生		2013-11-30		adv.天性地；固有地		
+canonical		/kəˈnɑːnɪkl/		1.很生		2013-11-27		adj.依教规的；圣典的；权威的；牧师的		
+rival		/ˈraɪvl/		1.很生		2013-11-13		n.竞争者；对手；同伴	adj.竞争的	v.竞争；与 ... 相匹敌		
+fudge		/fʌdʒ/		1.很生		2013-11-13		n.软糖；胡言	v.敷衍；回避(责任)；捏造		
+shenanigans		/ʃɪˈnænɪɡənz/		1.很生		2013-11-13		n.恶作剧；胡闹；诈骗	名词shenanigan的复数形式.		
+whitelist		/waɪte'lɪst/		1.很生		2013-11-13		将 ... 列入优良者名单		
+anonymous		/əˈnɑːnɪməs/		1.很生		2013-11-13		adj.匿名的；无名的；没特色的		
+Jacuzzi		/dʒəˈkuːzi/		1.很生		2013-11-02		n.极可意水流按摩浴缸(商标名称)		
+underachieving		/ˌʌndərə'tʃiːvɪŋ/		1.很生		2013-11-02		adj.未能充分发挥学习潜力的；学习成绩不良的		
+Sirens		1.很生		2013-11-02		three nymphs named Leucosia, Ligeia, and Parthenope		
+nut		/nʌt/		1.很生		2013-11-02		n.坚果；果仁	n.螺母；螺帽；难对付的人(事)	vi.采坚果		
+straight-laced		1.很生		2013-11-02		adj.古板拘谨的；固守道德观念的；穿着紧身衣服的	=strait-laced.		
+upon		/əˈpɑːn/		1.很生		2013-11-01		prep.在 ... 上；紧接着；逼近		
+abdicate		/ˈæbdɪkeɪt/		1.很生		2013-11-01		vt.正式放弃；让位	vi.退位；辞职		
+culprit		/ˈkʌlprɪt/		1.很生		2013-10-31		n.罪犯；起因		
+verbose		/vɜːˈbəʊs/		1.很生		2013-10-30		adj.罗嗦的；冗长的		
+leverage		/ˈlevərɪdʒ/		1.很生		2013-10-30		n.杠杆；杠杆作用；举债经营	v.举债经营；补充(金钱等)；对…产生影响		
+idempotent		/aɪ'dempətənt/		1.很生		2013-10-29		n.[数]幂等；等冥元	adj.[数]冥等的		
+hindrance		/ˈhɪndrəns/		1.很生		2013-10-29		n.起妨碍作用的事物或人		
+intuition		/ˌɪntuˈɪʃn/		1.很生		2013-10-23		n.直觉；直觉的知识		
+onus		/ˈoʊnəs/		1.很生		2013-10-23		n.负担；义务；耻辱		
+misnomer		/ˌmɪsˈnoʊmər/		1.很生		2013-10-22		n.误称；用词不当		
+dictate		/ˈdɪkteɪt/		1.很生		2013-10-22		vi.听写	vt.口授；规定；决定，影响	n.命令，支配，主宰；指挥；指令		
+jargon		/ˈdʒɑːrɡən/		1.很生		2013-10-22		n.行话	vi.说行话		
+stir		/stɜːr/		1.很生		2013-10-22		vt.激起；惹起；搅和	vi.活动；引起；挪动	n.骚乱；感动(激动；愤怒或震动)；搅拌		
+perpetually		/pəˈpetʃuəli/		1.很生		2013-10-22		adv.持久地；永恒地		
+strip		/strɪp/		1.很生		2013-10-22		v.剥去；剥夺；脱衣；除去	n.脱衣舞；长条；条状		
+instinctively		/ɪnˈstɪŋktɪvli/		1.很生		2013-10-22		adv.(出于)本能地		
+outrageous		/aʊtˈreɪdʒəs/		1.很生		2013-10-22		adj.过分的；骇人的		
+schmoozer		/ʃmuːzə(r)/		1.很生		2013-10-22		n.健谈的人		
+tabulation		/ˌtæbjuˈleɪʃn/		1.很生		2013-10-22		n.作表；表格		
+generosity		/ˌdʒenəˈrɑːsəti/		1.很生		2013-10-22		n.慷慨；大方；宽大		
+profound		/prəˈfaʊnd/		1.很生		2013-10-22		adj.深奥的；渊博的；极度的；意义深远的		
+bestow		/bɪˈstoʊ/		1.很生		2013-10-22		v.授予；给予；<古>使用；<古>放置		
+slack		/slæk/		1.很生		2013-10-22		adj.松弛的；懈怠的；萧条的	n.松弛的部分；松散；淡季	vt.使缓慢；疏忽	vi.变松弛；逃避工作		
+caddie		/ˈkædi/		1.很生		2013-10-22		n.球童；(运物用的)有轮手推车；<苏>杂工	vi.做球童	=caddy		
+breed		/briːd/		1.很生		2013-10-22		v.繁殖；养育；引起，产生；教养	n.品种；血统		
+potent		/ˈpoʊtnt/		1.很生		2013-10-22		adj.强有力的；有效的		
+reassure		/ˌriːəˈʃʊr/		1.很生		2013-10-22		v.使…安心；再保证；重拾(信心等)		
+toughening		/'tʌfnɪŋ/		1.很生		2013-10-22		n.韧化		
+godsend		/ˈɡɑːdsend/		1.很生		2013-10-22		n.天赐之物；意外获得的幸运		
+toddler		/ˈtɑːdlər/		1.很生		2013-10-22		n.初学走路的孩子		
+porch		/pɔːrtʃ/		1.很生		2013-10-22		n.门廊		
+rural		/ˈrʊrəl/		1.很生		2013-10-22		adj.农村的，乡村的，田园的		
+intimidate		/ɪnˈtɪmɪdeɪt/		1.很生		2013-10-22		vt.胁迫；威胁；恐吓		
+overwhelm		/ˌoʊvərˈwelm/		1.很生		2013-10-22		vt.打击；压倒；使感动；淹没；打败		
+univariate		/juːnɪ'veərɪət/		1.很生		2013-10-22		adj.[统]单变（量）的；一元的		
+clump		/klʌmp/		1.很生		2013-10-22		n.丛；块；沉重的声音	v.用沉重的脚步行走；丛生；使成簇		
+malignant		/məˈlɪɡnənt/		1.很生		2013-10-22		adj.有恶意的；恶性的；有害的		
+tumor		/'tjuːmə/		1.很生		2013-10-22		n.<美>肿瘤；肿块	=tumour（英）		
+chronological		/ˌkrɑːnəˈlɑːdʒɪkl/		1.很生		2013-10-11		adj.按时间顺序的		
+fusion		/ˈfjuːʒn/		1.很生		2013-10-09		n.融合；结合；熔合；核聚变		
+blur		/blɜːr/		1.很生		2013-10-08		v.弄脏；使 ... 模糊	n.污点；模糊		
+deteriorate		/dɪˈtɪriəreɪt/		1.很生		2013-10-08		v.恶化；变质；衰退		
+sort out		/sɔːrt aʊt/		1.很生		2013-10-05		vt.整理；选出；解决；惩罚；分类		
+retroactive		/ˌretroʊˈæktɪv/		1.很生		2013-10-04		adj.有追溯力的；可追溯的		
+streamline		/ˈstriːmlaɪn/		1.很生		2013-10-04		v.使 ... 成流线型；使 ... 合理化；使简化		
+summation		/sʌˈmeɪʃn/		1.很生		2013-10-04		n.总结；加法；总和；有代表性的整体		
+progression		/prəˈɡreʃn/		1.很生		2013-10-04		n.前进；进展；连续		
+blob		/blɑːb/		1.很生		2013-10-04		n.小圆块；小斑点；一滴	v.弄脏		
+opaque		/oʊˈpeɪk/		1.很生		2013-10-04		adj.不透明的；难懂的		
+seamless		/ˈsiːmləs/		1.很生		2013-10-04		adj.持续的；无缝的		
+petition		/pəˈtɪʃn/		1.很生		2013-10-04		n.请愿书；祈求；申请	vi.请愿；祈求	vt.向 ... 请愿，请求		
+flaky		/ˈfleɪki/		1.很生		2013-10-04		adj.薄片的；易剥落的；成层的；古里古怪的；疯疯癫癫的；<美俚>不可靠的		
+superfluous		/suːˈpɜːrfluəs/		1.很生		2013-10-03		adj.多余的；过剩的；不必要的		
+choppy		/ˈtʃɑːpi/		1.很生		2013-10-02		adj.波涛汹涌的；突变的；有裂痕的		
+constitute		/ˈkɑːnstətuːt/		1.很生		2013-10-02		vt.构成；组成；任命；建立；制定		
+heterogeneity		/ˌhetərəˈdʒəˈniːəti/		1.很生		2013-10-02		n.多相性；异质性		
+heterogeneous		/ˌhetərəˈdʒiːniəs/		1.很生		2013-10-02		adj.异种的；异质的；由不同成份形成的	[计算机] 非均匀的.		
+autonomous		/ɔːˈtɑːnəməs/		1.很生		2013-10-02		adj.自治的		
+barrier		/ˈbæriər/		1.很生		2013-10-02		n.栅栏；障碍物；屏障		
+acquire		/əˈkwaɪər/		1.很生		2013-10-02		vt.获得；学到；取得		
+attrition		/əˈtrɪʃn/		1.很生		2013-09-28		n.摩擦；消耗；人员耗损		
+deplete		/dɪˈpliːt/		1.很生		2013-09-28		vt.耗尽；使空竭		
+crisp		/krɪsp/		1.很生		2013-08-26		adj.脆的；干脆的；卷曲的；明快的；(天气)干冷的	n.薯片；松脆物	v.(使)发脆；(使)卷曲		
+throne		/θroʊn/		1.很生		2013-08-17		n.王位；君主		
+funky		/fʌŋki/		1.很生		2013-08-15		adj.新式的；时髦的；<美俚>绝妙的，极好的	adj.惊恐的；霉臭的；（俚）稀奇古怪的		
+precedence		/ˈpresɪdəns/		1.很生		2013-08-15		n.优先；居先		
+padding		/ˈpædɪŋ/		1.很生		2013-08-15		n.垫充；垫塞；填料；废话		
+decay		/dɪˈkeɪ/		1.很生		2013-08-15		v.(使)衰退；(使)腐败；(使)腐烂	n.衰退；腐烂；腐败		

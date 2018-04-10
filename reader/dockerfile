@@ -1,0 +1,9 @@
+FROM golang:1.8
+
+COPY ./reader /reader
+Add words.db .
+
+# Make port 8000 available to the world outside this container
+EXPOSE 8000
+
+ENTRYPOINT ["/reader"]
